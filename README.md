@@ -1,4 +1,5 @@
 # AI Finance Assistant — Multi-Agent Financial Literacy & Wealth Platform
+Deployed link: https://ai-multi-agent-finance-assistant.streamlit.app/
 
 An intelligent, multi-agent conversational financial education and portfolio analytics platform built with **LangGraph (`StateGraph`)**, **FAISS / Hybrid Semantic RAG**, **Google Gemini 2.0 Flash**, **Real-Time/Cached Market Data (`yFinance` & `Alpha Vantage`)**, **Streamlit**, and a **Model Context Protocol (MCP) Server** for Claude Desktop integration.
 
