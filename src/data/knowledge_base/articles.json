@@ -1,0 +1,1966 @@
+[
+  {
+    "id": "ART-001",
+    "title": "Compound Interest & Time Value of Money",
+    "category": "investing_basics",
+    "content": "Compound interest is the addition of interest to the principal sum of a loan or deposit, or in other words, interest on interest. Using the formula A = P(1 + r/n)^(nt), investors harness exponential growth over multi-decade horizons. The Rule of 72 (72 / annual return %) estimates how many years it takes to double an investment. Starting early reduces the monthly savings required to hit retirement milestones by more than 50%.\n\nKey Beginner Takeaway: Understanding compound interest & time value of money helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Compound interest is the addition of interest to the principal sum of a loan or deposit, or in other words, interest on interest. Using the formula A = P(1 + r/n)^(nt), investors harness exponential growth over multi-dec...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "compound",
+      "interest",
+      "time",
+      "value",
+      "money",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-002",
+    "title": "Risk vs. Return Tradeoff",
+    "category": "investing_basics",
+    "content": "In financial markets, higher potential returns are systematically associated with higher volatility and drawdown risk. The equity risk premium compensates stock investors for bearing earnings and macroeconomic uncertainty compared to risk-free U.S. Treasury bills. Investors must distinguish between capacity for risk (financial ability to absorb losses) and tolerance for risk (psychological comfort with market drops).\n\nKey Beginner Takeaway: Understanding risk vs. return tradeoff helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "In financial markets, higher potential returns are systematically associated with higher volatility and drawdown risk. The equity risk premium compensates stock investors for bearing earnings and macroeconomic uncertaint...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "risk",
+      "return",
+      "tradeoff",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-003",
+    "title": "Inflation and Purchasing Power Erosion",
+    "category": "investing_basics",
+    "content": "Inflation measures the rate at which the general price level of goods and services rises, eroding purchasing power. If inflation averages 3% annually, $100,000 today buys only $55,368 worth of goods in 20 years. Holding excessive cash in low-yield checking accounts leads to guaranteed real wealth loss, making inflation-beating assets like equities, TIPS, and real estate essential for long-term goals.\n\nKey Beginner Takeaway: Understanding inflation and purchasing power erosion helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Inflation measures the rate at which the general price level of goods and services rises, eroding purchasing power. If inflation averages 3% annually, $100,000 today buys only $55,368 worth of goods in 20 years. Holding ...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Intermediate",
+    "tags": [
+      "inflation",
+      "purchasing",
+      "power",
+      "erosion",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-004",
+    "title": "Dollar-Cost Averaging (DCA) vs. Lump-Sum Investing",
+    "category": "investing_basics",
+    "content": "Dollar-cost averaging involves investing a fixed dollar amount at regular intervals regardless of market prices, automatically buying more shares when prices are low and fewer when prices are high. Historical studies show lump-sum investing outperforms DCA roughly two-thirds of the time in rising markets, but DCA significantly reduces regret risk, behavioral paralysis, and timing anxiety for beginners.\n\nKey Beginner Takeaway: Understanding dollar-cost averaging (dca) vs. lump-sum investing helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Dollar-cost averaging involves investing a fixed dollar amount at regular intervals regardless of market prices, automatically buying more shares when prices are low and fewer when prices are high. Historical studies sho...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "dollar-cost",
+      "averaging",
+      "dca",
+      "lump-sum",
+      "investing",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-005",
+    "title": "Emergency Funds: The Foundation of Investing",
+    "category": "investing_basics",
+    "content": "Before investing in volatile market assets, individuals should hold 3 to 6 months of essential living expenses in a liquid, FDIC-insured High-Yield Savings Account (HYSA) or money market fund. An emergency fund acts as a financial buffer against job loss or medical emergencies, preventing forced liquidation of stock portfolios during market downturns.\n\nKey Beginner Takeaway: Understanding emergency funds: the foundation of investing helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Before investing in volatile market assets, individuals should hold 3 to 6 months of essential living expenses in a liquid, FDIC-insured High-Yield Savings Account (HYSA) or money market fund. An emergency fund acts as a...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "emergency",
+      "funds",
+      "foundation",
+      "investing",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-006",
+    "title": "Time Horizon and Asset Class Selection",
+    "category": "investing_basics",
+    "content": "Investment time horizon dictates how much volatility a portfolio can safely absorb. Short-term goals (under 3 years) belong in cash equivalents, CDs, or short-duration Treasuries. Medium-term goals (3-7 years) suit balanced stock/bond allocations, while long-term horizons (10+ years) allow heavy equity exposure since historical 10-year rolling S&P 500 returns have been overwhelmingly positive.\n\nKey Beginner Takeaway: Understanding time horizon and asset class selection helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Investment time horizon dictates how much volatility a portfolio can safely absorb. Short-term goals (under 3 years) belong in cash equivalents, CDs, or short-duration Treasuries. Medium-term goals (3-7 years) suit balan...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Intermediate",
+    "tags": [
+      "time",
+      "horizon",
+      "asset",
+      "class",
+      "selection",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-007",
+    "title": "Active vs. Passive Investing Principles",
+    "category": "investing_basics",
+    "content": "Active managers attempt to outperform market benchmarks through security selection and market timing, charging higher management fees (0.50%-1.50%+). Passive index investing tracks a broad market index like the S&P 500 or CRSP US Total Market at minimal cost (0.03%-0.10%). SPIVA scorecards consistently demonstrate that over 85% of active large-cap funds underperform their benchmarks over 15-year periods net of fees.\n\nKey Beginner Takeaway: Understanding active vs. passive investing principles helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Active managers attempt to outperform market benchmarks through security selection and market timing, charging higher management fees (0.50%-1.50%+). Passive index investing tracks a broad market index like the S&P 500 o...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "active",
+      "passive",
+      "investing",
+      "principles",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-008",
+    "title": "Understanding Investment Fees and Expense Ratios",
+    "category": "investing_basics",
+    "content": "An expense ratio is the annual fee charged by mutual funds and ETFs, expressed as a percentage of assets under management. A 1.00% fee vs. a 0.04% fee on a $100,000 portfolio growing at 8% over 30 years costs an investor over $220,000 in lost compounded value. Minimizing expense ratios, advisory wraps, and transaction spreads is one of the highest-certainty ways to boost net returns.\n\nKey Beginner Takeaway: Understanding understanding investment fees and expense ratios helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "An expense ratio is the annual fee charged by mutual funds and ETFs, expressed as a percentage of assets under management. A 1.00% fee vs. a 0.04% fee on a $100,000 portfolio growing at 8% over 30 years costs an investor...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "understanding",
+      "investment",
+      "fees",
+      "expense",
+      "ratios",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-009",
+    "title": "Liquidity and Marketability of Financial Assets",
+    "category": "investing_basics",
+    "content": "Liquidity refers to how quickly and cheaply an asset can be converted into cash without impacting its market price. Publicly traded large-cap stocks, ETFs, and U.S. Treasuries offer high liquidity with tight bid-ask spreads, whereas real estate, private equity, and collectibles are illiquid and carry liquidity premiums or early redemption penalties.\n\nKey Beginner Takeaway: Understanding liquidity and marketability of financial assets helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Liquidity refers to how quickly and cheaply an asset can be converted into cash without impacting its market price. Publicly traded large-cap stocks, ETFs, and U.S. Treasuries offer high liquidity with tight bid-ask spre...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Intermediate",
+    "tags": [
+      "liquidity",
+      "marketability",
+      "financial",
+      "assets",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-010",
+    "title": "Real vs. Nominal Investment Returns",
+    "category": "investing_basics",
+    "content": "Nominal return is the raw percentage gain of an investment before accounting for inflation and taxes, whereas real return adjusts for purchasing power using the Fisher equation: (1 + Nominal) / (1 + Inflation) - 1. Evaluating financial plans in real (today's dollar) terms prevents overestimating future retirement income.\n\nKey Beginner Takeaway: Understanding real vs. nominal investment returns helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Nominal return is the raw percentage gain of an investment before accounting for inflation and taxes, whereas real return adjusts for purchasing power using the Fisher equation: (1 + Nominal) / (1 + Inflation) - 1. Evalu...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "real",
+      "nominal",
+      "investment",
+      "returns",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-011",
+    "title": "Financial Intermediaries: Brokers, Custodians, and Advisors",
+    "category": "investing_basics",
+    "content": "Broker-dealers execute trades on exchanges, while custodians safeguard client assets (protected up to $500,000 including $250,000 cash by SIPC against brokerage insolvency). Registered Investment Advisors (RIAs) are legally bound by a fiduciary standard to act in the client's best interest, whereas suitability-standard brokers may recommend higher-commission products.\n\nKey Beginner Takeaway: Understanding financial intermediaries: brokers, custodians, and advisors helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Broker-dealers execute trades on exchanges, while custodians safeguard client assets (protected up to $500,000 including $250,000 cash by SIPC against brokerage insolvency). Registered Investment Advisors (RIAs) are lega...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Beginner",
+    "tags": [
+      "financial",
+      "intermediaries",
+      "brokers",
+      "custodians",
+      "advisors",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-012",
+    "title": "Setting SMART Financial Goals",
+    "category": "investing_basics",
+    "content": "Effective financial planning translates vague wishes into Specific, Measurable, Achievable, Relevant, and Time-bound (SMART) milestones. Every goal requires four quantitative inputs: current savings allocated, target future value (in today's dollars), years until milestone, and risk profile to determine the required monthly contribution.\n\nKey Beginner Takeaway: Understanding setting smart financial goals helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Effective financial planning translates vague wishes into Specific, Measurable, Achievable, Relevant, and Time-bound (SMART) milestones. Every goal requires four quantitative inputs: current savings allocated, target fut...",
+    "source": "SEC Investor.gov & Investopedia",
+    "source_url": "https://www.investor.gov/introduction-investing",
+    "difficulty": "Intermediate",
+    "tags": [
+      "setting",
+      "smart",
+      "financial",
+      "goals",
+      "investing_basics"
+    ]
+  },
+  {
+    "id": "ART-013",
+    "title": "Common Stock vs. Preferred Stock",
+    "category": "stocks_and_equities",
+    "content": "Common stock represents residual ownership in a corporation, granting voting rights and uncapped capital appreciation potential, but sits last in liquidation priority. Preferred stock functions as a hybrid security with fixed dividend payments and priority over common equity in bankruptcy, though it typically lacks voting rights and has limited price upside.\n\nKey Beginner Takeaway: Understanding common stock vs. preferred stock helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Common stock represents residual ownership in a corporation, granting voting rights and uncapped capital appreciation potential, but sits last in liquidation priority. Preferred stock functions as a hybrid security with ...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "common",
+      "stock",
+      "preferred",
+      "stock",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-014",
+    "title": "Market Capitalization Tiers: Large, Mid, and Small Cap",
+    "category": "stocks_and_equities",
+    "content": "Market capitalization equals share price multiplied by total diluted shares outstanding. Large-cap companies ($10B+, e.g., Apple, Microsoft) offer established cash flows and lower volatility; mid-caps ($2B-$10B) balance growth and stability; small-caps ($300M-$2B) provide higher domestic growth potential alongside elevated balance-sheet and cyclical risk.\n\nKey Beginner Takeaway: Understanding market capitalization tiers: large, mid, and small cap helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Market capitalization equals share price multiplied by total diluted shares outstanding. Large-cap companies ($10B+, e.g., Apple, Microsoft) offer established cash flows and lower volatility; mid-caps ($2B-$10B) balance ...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "market",
+      "capitalization",
+      "tiers",
+      "large",
+      "mid",
+      "small",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-015",
+    "title": "Growth vs. Value Investing Styles",
+    "category": "stocks_and_equities",
+    "content": "Growth stocks exhibit above-average revenue and earnings expansion, trading at high price-to-earnings (P/E) and price-to-book (P/B) multiples while reinvesting profits rather than paying dividends. Value stocks trade below intrinsic fundamental value with lower P/E ratios and higher dividend yields, often representing mature, cyclical, or temporarily out-of-favor enterprises.\n\nKey Beginner Takeaway: Understanding growth vs. value investing styles helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Growth stocks exhibit above-average revenue and earnings expansion, trading at high price-to-earnings (P/E) and price-to-book (P/B) multiples while reinvesting profits rather than paying dividends. Value stocks trade bel...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Intermediate",
+    "tags": [
+      "growth",
+      "value",
+      "investing",
+      "styles",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-016",
+    "title": "Price-to-Earnings (P/E) and PEG Valuation Ratios",
+    "category": "stocks_and_equities",
+    "content": "The P/E ratio divides current share price by Earnings Per Share (EPS), showing how much investors pay per dollar of profit. Trailing P/E uses past 12-month actual earnings, while Forward P/E uses analyst consensus estimates. The PEG ratio divides P/E by expected annual EPS growth rate; a PEG near 1.0 suggests fair valuation relative to growth.\n\nKey Beginner Takeaway: Understanding price-to-earnings (p/e) and peg valuation ratios helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The P/E ratio divides current share price by Earnings Per Share (EPS), showing how much investors pay per dollar of profit. Trailing P/E uses past 12-month actual earnings, while Forward P/E uses analyst consensus estima...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "price-to-earnings",
+      "p/e",
+      "valuation",
+      "ratios",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-017",
+    "title": "Dividends, Dividend Yield, and Payout Sustainability",
+    "category": "stocks_and_equities",
+    "content": "Dividends are cash or stock distributions paid from corporate profits to shareholders. Dividend yield is Annual Dividend per Share divided by Current Share Price. Investors evaluate sustainability via the Dividend Payout Ratio (Dividends / Net Income or Free Cash Flow); ratios above 80% outside REITs/utilities can signal dividend cut risk.\n\nKey Beginner Takeaway: Understanding dividends, dividend yield, and payout sustainability helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Dividends are cash or stock distributions paid from corporate profits to shareholders. Dividend yield is Annual Dividend per Share divided by Current Share Price. Investors evaluate sustainability via the Dividend Payout...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "dividends",
+      "dividend",
+      "yield",
+      "payout",
+      "sustainability",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-018",
+    "title": "Dividend Reinvestment Plans (DRIP) and Total Return",
+    "category": "stocks_and_equities",
+    "content": "Total stock return combines price appreciation and reinvested dividends. Historically, reinvested dividends have accounted for nearly 40% of the S&P 500's cumulative total return over the past century. Enrolling in a DRIP automatically purchases fractional shares on payout dates without commissions, accelerating compounding.\n\nKey Beginner Takeaway: Understanding dividend reinvestment plans (drip) and total return helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Total stock return combines price appreciation and reinvested dividends. Historically, reinvested dividends have accounted for nearly 40% of the S&P 500's cumulative total return over the past century. Enrolling in a DRI...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Intermediate",
+    "tags": [
+      "dividend",
+      "reinvestment",
+      "plans",
+      "drip",
+      "total",
+      "return",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-019",
+    "title": "Reading Income Statements: Revenue, Operating Margin, and EPS",
+    "category": "stocks_and_equities",
+    "content": "An income statement reports financial performance over a quarter or fiscal year. Top-line revenue minus Cost of Goods Sold (COGS) yields Gross Profit; subtracting operating expenses (R&D, SG&A) yields Operating Income (EBIT). Net Income divided by diluted shares gives EPS, the primary driver of long-term equity prices.\n\nKey Beginner Takeaway: Understanding reading income statements: revenue, operating margin, and eps helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "An income statement reports financial performance over a quarter or fiscal year. Top-line revenue minus Cost of Goods Sold (COGS) yields Gross Profit; subtracting operating expenses (R&D, SG&A) yields Operating Income (E...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "reading",
+      "income",
+      "statements",
+      "revenue",
+      "operating",
+      "margin",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-020",
+    "title": "Balance Sheet Health: Debt-to-Equity and Current Ratio",
+    "category": "stocks_and_equities",
+    "content": "The balance sheet captures Assets = Liabilities + Shareholders' Equity at a point in time. The Current Ratio (Current Assets / Current Liabilities) measures short-term liquidity (healthy is typically >1.2), while Debt-to-Equity evaluates financial leverage. Excessive floating-rate debt increases bankruptcy vulnerability when interest rates rise.\n\nKey Beginner Takeaway: Understanding balance sheet health: debt-to-equity and current ratio helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The balance sheet captures Assets = Liabilities + Shareholders' Equity at a point in time. The Current Ratio (Current Assets / Current Liabilities) measures short-term liquidity (healthy is typically >1.2), while Debt-to...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "balance",
+      "sheet",
+      "health",
+      "debt-to-equity",
+      "current",
+      "ratio",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-021",
+    "title": "Free Cash Flow (FCF) and Return on Invested Capital (ROIC)",
+    "category": "stocks_and_equities",
+    "content": "Free Cash Flow equals Operating Cash Flow minus Capital Expenditures (CapEx), representing the actual cash available for debt paydown, dividends, and share buybacks. Return on Invested Capital (NOPAT / Invested Capital) measures how efficiently management allocates capital to generate profits above its Weighted Average Cost of Capital (WACC).\n\nKey Beginner Takeaway: Understanding free cash flow (fcf) and return on invested capital (roic) helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Free Cash Flow equals Operating Cash Flow minus Capital Expenditures (CapEx), representing the actual cash available for debt paydown, dividends, and share buybacks. Return on Invested Capital (NOPAT / Invested Capital) ...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Intermediate",
+    "tags": [
+      "free",
+      "cash",
+      "flow",
+      "fcf",
+      "return",
+      "invested",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-022",
+    "title": "Economic Moats and Competitive Advantage",
+    "category": "stocks_and_equities",
+    "content": "Popularized by Warren Buffett and Morningstar, an economic moat describes a company's durable competitive advantage that protects high returns on capital from competitors. The five primary moat sources are network effects, intangible assets (patents/brands), cost advantages, high customer switching costs, and efficient scale.\n\nKey Beginner Takeaway: Understanding economic moats and competitive advantage helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Popularized by Warren Buffett and Morningstar, an economic moat describes a company's durable competitive advantage that protects high returns on capital from competitors. The five primary moat sources are network effect...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "economic",
+      "moats",
+      "competitive",
+      "advantage",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-023",
+    "title": "Stock Splits, Share Buybacks, and Dilution",
+    "category": "stocks_and_equities",
+    "content": "Forward stock splits (e.g., 10-for-1) increase share count and proportionally reduce share price without changing total market cap or intrinsic value. Share buybacks reduce outstanding share count, increasing each remaining shareholder's ownership stake and EPS, whereas excessive stock-based compensation dilutes existing shareholders.\n\nKey Beginner Takeaway: Understanding stock splits, share buybacks, and dilution helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Forward stock splits (e.g., 10-for-1) increase share count and proportionally reduce share price without changing total market cap or intrinsic value. Share buybacks reduce outstanding share count, increasing each remain...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Beginner",
+    "tags": [
+      "stock",
+      "splits",
+      "share",
+      "buybacks",
+      "dilution",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-024",
+    "title": "GICS Equity Sectors and Cyclical vs. Defensive Rotation",
+    "category": "stocks_and_equities",
+    "content": "The Global Industry Classification Standard (GICS) divides equities into 11 sectors: Technology, Healthcare, Financials, Consumer Discretionary, Communication Services, Industrials, Consumer Staples, Energy, Utilities, Real Estate, and Materials. Defensive sectors (Utilities, Staples, Healthcare) hold up better in recessions, while cyclicals (Tech, Discretionary, Industrials) lead in expansions.\n\nKey Beginner Takeaway: Understanding gics equity sectors and cyclical vs. defensive rotation helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The Global Industry Classification Standard (GICS) divides equities into 11 sectors: Technology, Healthcare, Financials, Consumer Discretionary, Communication Services, Industrials, Consumer Staples, Energy, Utilities, R...",
+    "source": "Investopedia & CFA Institute",
+    "source_url": "https://www.investopedia.com/stocks-4427785",
+    "difficulty": "Intermediate",
+    "tags": [
+      "gics",
+      "equity",
+      "sectors",
+      "cyclical",
+      "defensive",
+      "rotation",
+      "stocks_and_equities"
+    ]
+  },
+  {
+    "id": "ART-025",
+    "title": "How Bonds Work: Par Value, Coupon Rate, and Maturity",
+    "category": "bonds_and_fixed_income",
+    "content": "A bond is a fixed-income debt instrument where an investor loans capital to a government or corporation in exchange for periodic interest payments (coupons) and the return of principal (par/face value, typically $1,000) at maturity. Bonds provide predictable income streams and lower volatility than equities.\n\nKey Beginner Takeaway: Understanding how bonds work: par value, coupon rate, and maturity helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "A bond is a fixed-income debt instrument where an investor loans capital to a government or corporation in exchange for periodic interest payments (coupons) and the return of principal (par/face value, typically $1,000) ...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "bonds",
+      "work",
+      "value",
+      "coupon",
+      "rate",
+      "maturity",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-026",
+    "title": "The Inverse Relationship Between Bond Prices and Interest Rates",
+    "category": "bonds_and_fixed_income",
+    "content": "When prevailing market interest rates rise, existing bonds with lower fixed coupon rates become less attractive, causing their secondary market price to fall so their yield matches new issues. Conversely, when interest rates fall, existing higher-coupon bonds trade at a premium above par value.\n\nKey Beginner Takeaway: Understanding the inverse relationship between bond prices and interest rates helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "When prevailing market interest rates rise, existing bonds with lower fixed coupon rates become less attractive, causing their secondary market price to fall so their yield matches new issues. Conversely, when interest r...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "inverse",
+      "relationship",
+      "between",
+      "bond",
+      "prices",
+      "interest",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-027",
+    "title": "Duration and Interest Rate Sensitivity",
+    "category": "bonds_and_fixed_income",
+    "content": "Macaulay duration measures the weighted average time until a bond's cash flows are received, while Modified Duration estimates the percentage change in bond price for a 1% (100 bps) change in interest rates. A bond fund with a duration of 7.0 years will decline approximately 7% if interest rates rise by 1 percentage point.\n\nKey Beginner Takeaway: Understanding duration and interest rate sensitivity helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Macaulay duration measures the weighted average time until a bond's cash flows are received, while Modified Duration estimates the percentage change in bond price for a 1% (100 bps) change in interest rates. A bond fund ...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "duration",
+      "interest",
+      "rate",
+      "sensitivity",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-028",
+    "title": "Yield to Maturity (YTM) vs. Current Yield",
+    "category": "bonds_and_fixed_income",
+    "content": "Current yield simply divides annual coupon payment by current market price. Yield to Maturity (YTM) is the total annualized internal rate of return anticipated if the bond is held until maturity, accounting for coupon payments, current price discount or premium to par, and reinvestment assumptions.\n\nKey Beginner Takeaway: Understanding yield to maturity (ytm) vs. current yield helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Current yield simply divides annual coupon payment by current market price. Yield to Maturity (YTM) is the total annualized internal rate of return anticipated if the bond is held until maturity, accounting for coupon pa...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "yield",
+      "maturity",
+      "ytm",
+      "current",
+      "yield",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-029",
+    "title": "U.S. Treasury Securities: T-Bills, T-Notes, and T-Bonds",
+    "category": "bonds_and_fixed_income",
+    "content": "Backed by the full faith and credit of the U.S. government, Treasuries are considered virtually free of default risk. Treasury Bills (T-Bills) mature in 4 to 52 weeks and are sold at a discount; Treasury Notes mature in 2 to 10 years; Treasury Bonds mature in 20 to 30 years. Interest is exempt from state and local income taxes.\n\nKey Beginner Takeaway: Understanding u.s. treasury securities: t-bills, t-notes, and t-bonds helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Backed by the full faith and credit of the U.S. government, Treasuries are considered virtually free of default risk. Treasury Bills (T-Bills) mature in 4 to 52 weeks and are sold at a discount; Treasury Notes mature in ...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "u.s",
+      "treasury",
+      "securities",
+      "t-bills",
+      "t-notes",
+      "t-bonds",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-030",
+    "title": "TIPS and Series I Savings Bonds for Inflation Protection",
+    "category": "bonds_and_fixed_income",
+    "content": "Treasury Inflation-Protected Securities (TIPS) adjust their principal value semiannually based on changes in the Consumer Price Index (CPI), applying the fixed coupon rate to the inflation-adjusted principal. Series I Savings Bonds combine a fixed rate with an inflation-indexed rate for individual savers up to annual purchase limits.\n\nKey Beginner Takeaway: Understanding tips and series i savings bonds for inflation protection helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Treasury Inflation-Protected Securities (TIPS) adjust their principal value semiannually based on changes in the Consumer Price Index (CPI), applying the fixed coupon rate to the inflation-adjusted principal. Series I Sa...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "tips",
+      "series",
+      "savings",
+      "bonds",
+      "inflation",
+      "protection",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-031",
+    "title": "Corporate Bonds and Credit Rating Agencies",
+    "category": "bonds_and_fixed_income",
+    "content": "Corporations issue debt to fund expansion or operations. Rating agencies (Moody's, S&P, Fitch) assess default probability: Investment Grade ranges from AAA to BBB- (Baa3), while High-Yield ('Junk') bonds are rated BB+ (Ba1) or lower. Lower-rated issuers must pay a wider credit spread over Treasuries to compensate for default risk.\n\nKey Beginner Takeaway: Understanding corporate bonds and credit rating agencies helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Corporations issue debt to fund expansion or operations. Rating agencies (Moody's, S&P, Fitch) assess default probability: Investment Grade ranges from AAA to BBB- (Baa3), while High-Yield ('Junk') bonds are rated BB+ (B...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "corporate",
+      "bonds",
+      "credit",
+      "rating",
+      "agencies",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-032",
+    "title": "Municipal Bonds and Tax-Equivalent Yield",
+    "category": "bonds_and_fixed_income",
+    "content": "Municipal ('muni') bonds are issued by states, cities, and counties to fund public infrastructure. Interest on most municipal bonds is exempt from federal income tax and, if issued in the investor's state of residence, state and local taxes. Tax-Equivalent Yield = Muni Yield / (1 - Marginal Tax Rate), making munis attractive for high-bracket investors.\n\nKey Beginner Takeaway: Understanding municipal bonds and tax-equivalent yield helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Municipal ('muni') bonds are issued by states, cities, and counties to fund public infrastructure. Interest on most municipal bonds is exempt from federal income tax and, if issued in the investor's state of residence, s...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "municipal",
+      "bonds",
+      "tax-equivalent",
+      "yield",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-033",
+    "title": "Understanding the Yield Curve and Inversion Signals",
+    "category": "bonds_and_fixed_income",
+    "content": "The yield curve plots Treasury yields across maturities from 1 month to 30 years. A normal yield curve slopes upward because longer maturities demand a term premium. An inverted yield curve (where 2-year yields exceed 10-year yields) reflects expectations of central bank rate cuts due to impending economic slowdown and has historically preceded recessions.\n\nKey Beginner Takeaway: Understanding understanding the yield curve and inversion signals helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The yield curve plots Treasury yields across maturities from 1 month to 30 years. A normal yield curve slopes upward because longer maturities demand a term premium. An inverted yield curve (where 2-year yields exceed 10...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "understanding",
+      "yield",
+      "curve",
+      "inversion",
+      "signals",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-034",
+    "title": "Bond Ladders for Predictable Cash Flow",
+    "category": "bonds_and_fixed_income",
+    "content": "A bond ladder involves purchasing individual bonds or defined-maturity ETFs with staggered maturity dates (e.g., 1, 2, 3, 4, and 5 years). As the shortest bond matures each year, principal is reinvested into a new 5-year bond at the top of the ladder, smoothing out interest rate reinvestment risk while maintaining regular liquidity.\n\nKey Beginner Takeaway: Understanding bond ladders for predictable cash flow helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "A bond ladder involves purchasing individual bonds or defined-maturity ETFs with staggered maturity dates (e.g., 1, 2, 3, 4, and 5 years). As the shortest bond matures each year, principal is reinvested into a new 5-year...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "bond",
+      "ladders",
+      "predictable",
+      "cash",
+      "flow",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-035",
+    "title": "Individual Bonds vs. Bond ETFs and Mutual Funds",
+    "category": "bonds_and_fixed_income",
+    "content": "Individual bonds held to maturity return exact par value (barring default), insulating the holder from interim price fluctuations. Bond ETFs (like BND or AGG) maintain a constant target duration by continuously rolling maturing bonds, offering instant diversification across thousands of issues and intraday liquidity.\n\nKey Beginner Takeaway: Understanding individual bonds vs. bond etfs and mutual funds helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Individual bonds held to maturity return exact par value (barring default), insulating the holder from interim price fluctuations. Bond ETFs (like BND or AGG) maintain a constant target duration by continuously rolling m...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Beginner",
+    "tags": [
+      "individual",
+      "bonds",
+      "bond",
+      "etfs",
+      "mutual",
+      "funds",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-036",
+    "title": "Callable Bonds and Prepayment Risk",
+    "category": "bonds_and_fixed_income",
+    "content": "Callable bonds give the issuer the right to redeem the bond prior to maturity at a specified call price. Issuers typically call bonds when interest rates drop significantly so they can refinance at lower rates, exposing investors to reinvestment risk at lower prevailing yields and capping price appreciation.\n\nKey Beginner Takeaway: Understanding callable bonds and prepayment risk helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Callable bonds give the issuer the right to redeem the bond prior to maturity at a specified call price. Issuers typically call bonds when interest rates drop significantly so they can refinance at lower rates, exposing ...",
+    "source": "FINRA & TreasuryDirect",
+    "source_url": "https://www.finra.org/investors/investing/investment-products/bonds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "callable",
+      "bonds",
+      "prepayment",
+      "risk",
+      "bonds_and_fixed_income"
+    ]
+  },
+  {
+    "id": "ART-037",
+    "title": "Exchange-Traded Funds (ETFs) vs. Mutual Funds",
+    "category": "etfs_and_mutual_funds",
+    "content": "ETFs trade continuously throughout the market day on stock exchanges at market-determined prices, whereas mutual funds execute orders once daily after the 4:00 PM ET market close at exact Net Asset Value (NAV). ETFs generally offer lower minimum investments (1 share or fractional shares) and superior tax efficiency.\n\nKey Beginner Takeaway: Understanding exchange-traded funds (etfs) vs. mutual funds helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "ETFs trade continuously throughout the market day on stock exchanges at market-determined prices, whereas mutual funds execute orders once daily after the 4:00 PM ET market close at exact Net Asset Value (NAV). ETFs gene...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "exchange-traded",
+      "funds",
+      "etfs",
+      "mutual",
+      "funds",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-038",
+    "title": "How ETF Creation/Redemption Keeps Tracking Error Low",
+    "category": "etfs_and_mutual_funds",
+    "content": "Authorized Participants (APs) arbitrage price discrepancies between an ETF's market price and the underlying basket's NAV by exchanging in-kind baskets of securities for ETF creation units. This in-kind creation/redemption mechanism keeps premiums/discounts minimal and avoids triggering capital gains distributions inside the fund.\n\nKey Beginner Takeaway: Understanding how etf creation/redemption keeps tracking error low helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Authorized Participants (APs) arbitrage price discrepancies between an ETF's market price and the underlying basket's NAV by exchanging in-kind baskets of securities for ETF creation units. This in-kind creation/redempti...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "creation/redemption",
+      "keeps",
+      "tracking",
+      "error",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-039",
+    "title": "Broad Market Index Funds: S&P 500, Total US, and Total World",
+    "category": "etfs_and_mutual_funds",
+    "content": "Core index funds provide instant diversification across hundreds or thousands of companies. S&P 500 ETFs (VOO, IVV, SPY) cover 500 large-cap U.S. firms (~80% of U.S. market cap); Total U.S. Market ETFs (VTI, ITOT) add ~3,000 mid- and small-cap stocks; Total World ETFs (VT) combine U.S. and international developed/emerging equities.\n\nKey Beginner Takeaway: Understanding broad market index funds: s&p 500, total us, and total world helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Core index funds provide instant diversification across hundreds or thousands of companies. S&P 500 ETFs (VOO, IVV, SPY) cover 500 large-cap U.S. firms (~80% of U.S. market cap); Total U.S. Market ETFs (VTI, ITOT) add ~3...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "broad",
+      "market",
+      "index",
+      "funds",
+      "500",
+      "total",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-040",
+    "title": "The Bogleheads Three-Fund Portfolio Strategy",
+    "category": "etfs_and_mutual_funds",
+    "content": "Pioneered by John Bogle and Taylor Larimore, the Three-Fund Portfolio combines a Total U.S. Stock Market index fund (e.g., VTI), a Total International Stock Market index fund (e.g., VXUS), and a Total U.S. Bond Market index fund (e.g., BND). It delivers global diversification across 10,000+ securities, rock-bottom fees (<0.05%), and effortless rebalancing.\n\nKey Beginner Takeaway: Understanding the bogleheads three-fund portfolio strategy helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Pioneered by John Bogle and Taylor Larimore, the Three-Fund Portfolio combines a Total U.S. Stock Market index fund (e.g., VTI), a Total International Stock Market index fund (e.g., VXUS), and a Total U.S. Bond Market in...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "bogleheads",
+      "three-fund",
+      "portfolio",
+      "strategy",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-041",
+    "title": "Target-Date Retirement Funds (TDFs) Explained",
+    "category": "etfs_and_mutual_funds",
+    "content": "Target-Date Funds (e.g., Target Retirement 2055) are all-in-one fund-of-funds that automatically adjust their glide path from aggressive (90% stocks / 10% bonds) when young to conservative (40-50% stocks / 50-60% bonds) approaching retirement. They eliminate manual rebalancing for hands-off retirement savers.\n\nKey Beginner Takeaway: Understanding target-date retirement funds (tdfs) explained helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Target-Date Funds (e.g., Target Retirement 2055) are all-in-one fund-of-funds that automatically adjust their glide path from aggressive (90% stocks / 10% bonds) when young to conservative (40-50% stocks / 50-60% bonds) ...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "target-date",
+      "retirement",
+      "funds",
+      "tdfs",
+      "explained",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-042",
+    "title": "Sector, Thematic, and Smart-Beta Factor ETFs",
+    "category": "etfs_and_mutual_funds",
+    "content": "Sector ETFs (e.g., XLK for Technology, XLV for Healthcare) isolate single GICS industries. Smart-beta or factor ETFs tilt toward academically documented Fama-French factors such as Value, Size, Momentum, Low Volatility, or Quality. Thematic ETFs often launch near hype peaks with high fees (0.60%+) and elevated concentration risk.\n\nKey Beginner Takeaway: Understanding sector, thematic, and smart-beta factor etfs helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Sector ETFs (e.g., XLK for Technology, XLV for Healthcare) isolate single GICS industries. Smart-beta or factor ETFs tilt toward academically documented Fama-French factors such as Value, Size, Momentum, Low Volatility, ...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "sector",
+      "thematic",
+      "smart-beta",
+      "factor",
+      "etfs",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-043",
+    "title": "Mutual Fund Share Classes, Front-End Loads, and 12b-1 Fees",
+    "category": "etfs_and_mutual_funds",
+    "content": "Retail investors should avoid mutual funds charging front-end sales loads (Class A shares deducting 3%-5.75% upfront) or back-end deferred contingent sales charges (Class B/C), as well as ongoing 12b-1 marketing/distribution fees (0.25%-1.00%). Always select no-load, institutional, or low-cost ETF shares.\n\nKey Beginner Takeaway: Understanding mutual fund share classes, front-end loads, and 12b-1 fees helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Retail investors should avoid mutual funds charging front-end sales loads (Class A shares deducting 3%-5.75% upfront) or back-end deferred contingent sales charges (Class B/C), as well as ongoing 12b-1 marketing/distribu...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "mutual",
+      "fund",
+      "share",
+      "classes",
+      "front-end",
+      "loads",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-044",
+    "title": "Tracking Error and Bid-Ask Spreads in ETFs",
+    "category": "etfs_and_mutual_funds",
+    "content": "Total cost of ETF ownership includes both the stated expense ratio and trading friction. Tracking error measures how closely a fund trails its benchmark index. Highly liquid ETFs trade with 1-basis-point ($0.01) bid-ask spreads, whereas thinly traded niche ETFs can suffer wide spreads and NAV premiums/discounts during volatile opens/closes.\n\nKey Beginner Takeaway: Understanding tracking error and bid-ask spreads in etfs helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Total cost of ETF ownership includes both the stated expense ratio and trading friction. Tracking error measures how closely a fund trails its benchmark index. Highly liquid ETFs trade with 1-basis-point ($0.01) bid-ask ...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "tracking",
+      "error",
+      "bid-ask",
+      "spreads",
+      "etfs",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-045",
+    "title": "International Diversification: Developed vs. Emerging Markets",
+    "category": "etfs_and_mutual_funds",
+    "content": "Allocating 20% to 40% of an equity portfolio to non-U.S. stocks reduces single-country valuation and currency regime risk. Developed International ETFs (VEA, IEFA) cover Europe, Japan, Canada, and Australia, while Emerging Market ETFs (VWO, IEMG) include India, Taiwan, China, and Brazil, offering demographic growth at lower valuation multiples.\n\nKey Beginner Takeaway: Understanding international diversification: developed vs. emerging markets helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Allocating 20% to 40% of an equity portfolio to non-U.S. stocks reduces single-country valuation and currency regime risk. Developed International ETFs (VEA, IEFA) cover Europe, Japan, Canada, and Australia, while Emergi...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "international",
+      "diversification",
+      "developed",
+      "emerging",
+      "markets",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-046",
+    "title": "Money Market Funds vs. High-Yield Savings Accounts",
+    "category": "etfs_and_mutual_funds",
+    "content": "Government and Treasury Money Market Funds (e.g., VMFXX, SPAXX,SGOV) invest in overnight repurchase agreements and short-term T-Bills, closely tracking the Federal Reserve's federal funds rate. While brokerage money market funds are covered by SIPC rather than FDIC insurance, Treasury-backed funds offer competitive yields and state tax exemptions.\n\nKey Beginner Takeaway: Understanding money market funds vs. high-yield savings accounts helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Government and Treasury Money Market Funds (e.g., VMFXX, SPAXX,SGOV) invest in overnight repurchase agreements and short-term T-Bills, closely tracking the Federal Reserve's federal funds rate. While brokerage money mark...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "money",
+      "market",
+      "funds",
+      "high-yield",
+      "savings",
+      "accounts",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-047",
+    "title": "Real Estate Investment Trusts (REITs) and Real Asset ETFs",
+    "category": "etfs_and_mutual_funds",
+    "content": "Publicly traded Equity REITs (e.g., VNQ) own income-producing commercial real estate (data centers, apartments, warehouses, healthcare facilities) and must distribute at least 90% of taxable income to shareholders as dividends. Because REIT dividends are generally taxed as ordinary income, they are frequently held in tax-advantaged accounts.\n\nKey Beginner Takeaway: Understanding real estate investment trusts (reits) and real asset etfs helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Publicly traded Equity REITs (e.g., VNQ) own income-producing commercial real estate (data centers, apartments, warehouses, healthcare facilities) and must distribute at least 90% of taxable income to shareholders as div...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Beginner",
+    "tags": [
+      "real",
+      "estate",
+      "investment",
+      "trusts",
+      "reits",
+      "real",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-048",
+    "title": "Synthetic, Leveraged, and Inverse ETF Risks",
+    "category": "etfs_and_mutual_funds",
+    "content": "Leveraged (2x/3x) and inverse ETFs use swaps and futures to multiply daily index returns. Due to daily compounding reset and volatility drag (beta slippage), holding leveraged ETFs over multi-week or multi-month periods can cause severe value decay even if the underlying index ends flat. They are short-term trading tools, not long-term investments.\n\nKey Beginner Takeaway: Understanding synthetic, leveraged, and inverse etf risks helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Leveraged (2x/3x) and inverse ETFs use swaps and futures to multiply daily index returns. Due to daily compounding reset and volatility drag (beta slippage), holding leveraged ETFs over multi-week or multi-month periods ...",
+    "source": "Bogleheads Wiki & Vanguard Research",
+    "source_url": "https://www.bogleheads.org/wiki/ETFs_vs_mutual_funds",
+    "difficulty": "Intermediate",
+    "tags": [
+      "synthetic",
+      "leveraged",
+      "inverse",
+      "risks",
+      "etfs_and_mutual_funds"
+    ]
+  },
+  {
+    "id": "ART-049",
+    "title": "Modern Portfolio Theory (MPT) and the Efficient Frontier",
+    "category": "portfolio_management",
+    "content": "Developed by Nobel laureate Harry Markowitz (1952), Modern Portfolio Theory demonstrates that an asset's risk and return should not be assessed in isolation, but by how it contributes to a portfolio's overall mean-variance profile. The Efficient Frontier represents the set of optimal portfolios offering the highest expected return for a defined level of volatility.\n\nKey Beginner Takeaway: Understanding modern portfolio theory (mpt) and the efficient frontier helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Developed by Nobel laureate Harry Markowitz (1952), Modern Portfolio Theory demonstrates that an asset's risk and return should not be assessed in isolation, but by how it contributes to a portfolio's overall mean-varian...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "modern",
+      "portfolio",
+      "theory",
+      "mpt",
+      "efficient",
+      "frontier",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-050",
+    "title": "Asset Allocation: The Primary Driver of Portfolio Variability",
+    "category": "portfolio_management",
+    "content": "Landmark research by Brinson, Hood, and Beebower established that strategic asset allocation\u2014the percentage split among stocks, bonds, and cash\u2014explains over 90% of the variability in a portfolio's returns over time, dwarfing the impact of individual security picking or short-term market timing.\n\nKey Beginner Takeaway: Understanding asset allocation: the primary driver of portfolio variability helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Landmark research by Brinson, Hood, and Beebower established that strategic asset allocation\u2014the percentage split among stocks, bonds, and cash\u2014explains over 90% of the variability in a portfolio's returns over time, dwa...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "asset",
+      "allocation",
+      "primary",
+      "driver",
+      "portfolio",
+      "variability",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-051",
+    "title": "Correlation Coefficients and True Diversification",
+    "category": "portfolio_management",
+    "content": "Correlation (ranging from -1.0 to +1.0) measures how two assets move in relation to each other. Combining assets with low or negative correlation (such as U.S. equities and intermediate U.S. Treasuries during deflationary shocks) reduces total portfolio standard deviation without proportionally sacrificing expected return.\n\nKey Beginner Takeaway: Understanding correlation coefficients and true diversification helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Correlation (ranging from -1.0 to +1.0) measures how two assets move in relation to each other. Combining assets with low or negative correlation (such as U.S. equities and intermediate U.S. Treasuries during deflationar...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "correlation",
+      "coefficients",
+      "true",
+      "diversification",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-052",
+    "title": "Sharpe Ratio and Sortino Ratio: Risk-Adjusted Returns",
+    "category": "portfolio_management",
+    "content": "The Sharpe Ratio equals (Portfolio Return - Risk-Free Rate) / Portfolio Standard Deviation, measuring excess return per unit of total volatility. A Sharpe ratio > 1.0 is considered strong. The Sortino Ratio refines this by dividing excess return only by downside deviation, avoiding penalizing upside volatility.\n\nKey Beginner Takeaway: Understanding sharpe ratio and sortino ratio: risk-adjusted returns helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The Sharpe Ratio equals (Portfolio Return - Risk-Free Rate) / Portfolio Standard Deviation, measuring excess return per unit of total volatility. A Sharpe ratio > 1.0 is considered strong. The Sortino Ratio refines this ...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "sharpe",
+      "ratio",
+      "sortino",
+      "ratio",
+      "risk-adjusted",
+      "returns",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-053",
+    "title": "Portfolio Beta, Alpha, and Systematic vs. Idiosyncratic Risk",
+    "category": "portfolio_management",
+    "content": "Total risk consists of systematic (non-diversifiable market risk) and idiosyncratic (company-specific risk, which vanishes across 30+ uncorrelated holdings). Beta measures sensitivity to the benchmark (Beta = 1.2 implies 20% more swing than the S&P 500). Jensen's Alpha measures excess return generated above what CAPM predicts for that Beta.\n\nKey Beginner Takeaway: Understanding portfolio beta, alpha, and systematic vs. idiosyncratic risk helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Total risk consists of systematic (non-diversifiable market risk) and idiosyncratic (company-specific risk, which vanishes across 30+ uncorrelated holdings). Beta measures sensitivity to the benchmark (Beta = 1.2 implies...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "portfolio",
+      "beta",
+      "alpha",
+      "systematic",
+      "idiosyncratic",
+      "risk",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-054",
+    "title": "Herfindahl-Hirschman Index (HHI) for Concentration Risk",
+    "category": "portfolio_management",
+    "content": "Concentration risk occurs when a portfolio is overly dependent on a single stock, sector, or geography. The Herfindahl-Hirschman Index sums the squared portfolio weights (sum of w_i^2); an equal-weighted 10-asset portfolio has HHI = 0.10, whereas a single-stock portfolio has HHI = 1.00. Converting HHI to a 0-100 Diversification Score highlights single-stock danger.\n\nKey Beginner Takeaway: Understanding herfindahl-hirschman index (hhi) for concentration risk helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Concentration risk occurs when a portfolio is overly dependent on a single stock, sector, or geography. The Herfindahl-Hirschman Index sums the squared portfolio weights (sum of w_i^2); an equal-weighted 10-asset portfol...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "herfindahl-hirschman",
+      "index",
+      "hhi",
+      "concentration",
+      "risk",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-055",
+    "title": "Portfolio Rebalancing Strategies: Calendar vs. Threshold Bands",
+    "category": "portfolio_management",
+    "content": "Over time, faster-growing equities drift above target weights, silently increasing portfolio risk. Calendar rebalancing resets weights annually or semi-annually, while threshold-band rebalancing triggers trades only when an asset class drifts by a set tolerance (e.g., +/- 5% absolute or 20% relative), forcing disciplined buy-low, sell-high behavior.\n\nKey Beginner Takeaway: Understanding portfolio rebalancing strategies: calendar vs. threshold bands helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Over time, faster-growing equities drift above target weights, silently increasing portfolio risk. Calendar rebalancing resets weights annually or semi-annually, while threshold-band rebalancing triggers trades only when...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "portfolio",
+      "rebalancing",
+      "strategies",
+      "calendar",
+      "threshold",
+      "bands",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-056",
+    "title": "Age-Based and Risk-Adjusted Allocation Rules of Thumb",
+    "category": "portfolio_management",
+    "content": "Classic heuristics like '110 minus your age in stocks' or '120 minus your age in stocks' provide a starting point (e.g., a 30-year-old holds 80%-90% equities and 10%-20% fixed income). Modern portfolio design refines this using income stability, human capital, pension availability, and drawdown tolerance.\n\nKey Beginner Takeaway: Understanding age-based and risk-adjusted allocation rules of thumb helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Classic heuristics like '110 minus your age in stocks' or '120 minus your age in stocks' provide a starting point (e.g., a 30-year-old holds 80%-90% equities and 10%-20% fixed income). Modern portfolio design refines thi...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "age-based",
+      "risk-adjusted",
+      "allocation",
+      "rules",
+      "thumb",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-057",
+    "title": "Maximum Drawdown and Sequence of Returns Risk",
+    "category": "portfolio_management",
+    "content": "Maximum Drawdown measures the largest peak-to-trough percentage decline in portfolio value before a new peak is achieved. Sequence of Returns Risk describes the danger of experiencing deep market drawdowns in the first 5 years of retirement while withdrawing living expenses, which can permanently deplete a portfolio even if long-term average returns recover.\n\nKey Beginner Takeaway: Understanding maximum drawdown and sequence of returns risk helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Maximum Drawdown measures the largest peak-to-trough percentage decline in portfolio value before a new peak is achieved. Sequence of Returns Risk describes the danger of experiencing deep market drawdowns in the first 5...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "maximum",
+      "drawdown",
+      "sequence",
+      "returns",
+      "risk",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-058",
+    "title": "Core-Satellite Portfolio Construction",
+    "category": "portfolio_management",
+    "content": "A Core-Satellite framework allocates 80% to 90% of capital into ultra-low-cost, broad-market index ETFs (the Core) to guarantee market returns and minimize fees, while reserving 10% to 20% (Satellites) for high-conviction factor tilts, sector ETFs, or individual equities to satisfy active engagement within strict risk guardrails.\n\nKey Beginner Takeaway: Understanding core-satellite portfolio construction helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "A Core-Satellite framework allocates 80% to 90% of capital into ultra-low-cost, broad-market index ETFs (the Core) to guarantee market returns and minimize fees, while reserving 10% to 20% (Satellites) for high-convictio...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "core-satellite",
+      "portfolio",
+      "construction",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-059",
+    "title": "The 4% Safe Withdrawal Rate (Trinity Study) and Dynamic Spending",
+    "category": "portfolio_management",
+    "content": "Originating from William Bengen and the Trinity Study, the 4% Rule states that withdrawing 4% of an initial 60/40 stock/bond portfolio in Year 1 of retirement, and adjusting that dollar amount for inflation annually, historically survived 95%+ of 30-year periods. Flexible guardrail strategies (Guyton-Klinger) improve sustainability further.\n\nKey Beginner Takeaway: Understanding the 4% safe withdrawal rate (trinity study) and dynamic spending helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Originating from William Bengen and the Trinity Study, the 4% Rule states that withdrawing 4% of an initial 60/40 stock/bond portfolio in Year 1 of retirement, and adjusting that dollar amount for inflation annually, his...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Beginner",
+    "tags": [
+      "safe",
+      "withdrawal",
+      "rate",
+      "trinity",
+      "study",
+      "dynamic",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-060",
+    "title": "Monte Carlo Simulation in Financial Planning",
+    "category": "portfolio_management",
+    "content": "Deterministic calculators assume a steady 7% return every year, ignoring real-world volatility clustering. Monte Carlo simulation runs 1,000 to 10,000 stochastic trials using randomized normal/lognormal return distributions based on expected mean return and standard deviation, reporting the 10th, 50th (median), and 90th percentile wealth outcomes.\n\nKey Beginner Takeaway: Understanding monte carlo simulation in financial planning helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Deterministic calculators assume a steady 7% return every year, ignoring real-world volatility clustering. Monte Carlo simulation runs 1,000 to 10,000 stochastic trials using randomized normal/lognormal return distributi...",
+    "source": "CFA Institute & Modern Portfolio Theory",
+    "source_url": "https://www.cfainstitute.org/en/research/foundation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "monte",
+      "carlo",
+      "simulation",
+      "financial",
+      "planning",
+      "portfolio_management"
+    ]
+  },
+  {
+    "id": "ART-061",
+    "title": "Traditional 401(k) vs. Roth 401(k) Employer Plans",
+    "category": "tax_and_retirement",
+    "content": "A 401(k) is an employer-sponsored defined-contribution retirement account. Traditional 401(k) contributions are pre-tax, lowering current Adjusted Gross Income (AGI), while withdrawals in retirement are taxed as ordinary income. Roth 401(k) contributions are made with after-tax dollars, growing 100% tax-free in retirement.\n\nKey Beginner Takeaway: Understanding traditional 401(k) vs. roth 401(k) employer plans helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "A 401(k) is an employer-sponsored defined-contribution retirement account. Traditional 401(k) contributions are pre-tax, lowering current Adjusted Gross Income (AGI), while withdrawals in retirement are taxed as ordinary...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "traditional",
+      "401(k",
+      "roth",
+      "401(k",
+      "employer",
+      "plans",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-062",
+    "title": "Employer 401(k) Matching: Capturing a 100% Instant Return",
+    "category": "tax_and_retirement",
+    "content": "Many employers match employee 401(k) contributions up to a set percentage of salary (e.g., 100% match on the first 4% of pay, or 50% up to 6%). Contributing at least enough to capture the full employer match should take priority over almost any other investment, as it represents an immediate, risk-free 50%-100% return.\n\nKey Beginner Takeaway: Understanding employer 401(k) matching: capturing a 100% instant return helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Many employers match employee 401(k) contributions up to a set percentage of salary (e.g., 100% match on the first 4% of pay, or 50% up to 6%). Contributing at least enough to capture the full employer match should take ...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "employer",
+      "401(k",
+      "matching",
+      "capturing",
+      "100%",
+      "instant",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-063",
+    "title": "Traditional IRA vs. Roth IRA Eligibility and Phase-Outs",
+    "category": "tax_and_retirement",
+    "content": "Individual Retirement Arrangements (IRAs) allow tax-advantaged retirement saving outside employer plans. Roth IRAs offer tax-free growth, no Required Minimum Distributions (RMDs) for the original owner, and penalty-free withdrawal of direct contributions at any time. High earners above IRS MAGI phase-out limits can utilize the Backdoor Roth IRA strategy.\n\nKey Beginner Takeaway: Understanding traditional ira vs. roth ira eligibility and phase-outs helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Individual Retirement Arrangements (IRAs) allow tax-advantaged retirement saving outside employer plans. Roth IRAs offer tax-free growth, no Required Minimum Distributions (RMDs) for the original owner, and penalty-free ...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Intermediate",
+    "tags": [
+      "traditional",
+      "roth",
+      "eligibility",
+      "phase-outs",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-064",
+    "title": "Health Savings Account (HSA): The Triple Tax Advantage",
+    "category": "tax_and_retirement",
+    "content": "Available to enrollees in High-Deductible Health Plans (HDHPs), the HSA is the only account in the U.S. tax code offering a triple tax advantage: (1) contributions are tax-deductible (and FICA-free via payroll), (2) invested funds compound tax-free, and (3) withdrawals for qualified medical expenses are 100% tax-free at any age.\n\nKey Beginner Takeaway: Understanding health savings account (hsa): the triple tax advantage helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Available to enrollees in High-Deductible Health Plans (HDHPs), the HSA is the only account in the U.S. tax code offering a triple tax advantage: (1) contributions are tax-deductible (and FICA-free via payroll), (2) inve...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "health",
+      "savings",
+      "account",
+      "hsa",
+      "triple",
+      "advantage",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-065",
+    "title": "Short-Term vs. Long-Term Capital Gains Tax Rates",
+    "category": "tax_and_retirement",
+    "content": "Capital gains are triggered when selling an asset in a taxable brokerage account for more than its cost basis. Assets held for 1 year or less incur Short-Term Capital Gains, taxed at ordinary federal income brackets (10% to 37%). Assets held longer than 1 year qualify for preferential Long-Term Capital Gains rates (0%, 15%, or 20%, plus 3.8% NIIT for high earners).\n\nKey Beginner Takeaway: Understanding short-term vs. long-term capital gains tax rates helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Capital gains are triggered when selling an asset in a taxable brokerage account for more than its cost basis. Assets held for 1 year or less incur Short-Term Capital Gains, taxed at ordinary federal income brackets (10%...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "short-term",
+      "long-term",
+      "capital",
+      "gains",
+      "rates",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-066",
+    "title": "Qualified vs. Non-Qualified (Ordinary) Dividends",
+    "category": "tax_and_retirement",
+    "content": "Qualified dividends from U.S. corporations and qualifying foreign firms held for more than 60 days during the 121-day window around the ex-dividend date are taxed at favorable long-term capital gains rates (0%/15%/20%). Non-qualified dividends (including REIT payouts and money market/bond interest) are taxed at ordinary income rates.\n\nKey Beginner Takeaway: Understanding qualified vs. non-qualified (ordinary) dividends helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Qualified dividends from U.S. corporations and qualifying foreign firms held for more than 60 days during the 121-day window around the ex-dividend date are taxed at favorable long-term capital gains rates (0%/15%/20%). ...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Intermediate",
+    "tags": [
+      "qualified",
+      "non-qualified",
+      "ordinary",
+      "dividends",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-067",
+    "title": "Tax-Loss Harvesting (TLH) and the IRS Wash-Sale Rule",
+    "category": "tax_and_retirement",
+    "content": "Tax-loss harvesting involves selling a security currently at an unrealized loss in a taxable account to offset realized capital gains and up to $3,000 of ordinary income per year (with unused losses carried forward indefinitely). To comply with the IRS Wash-Sale Rule (Section 1091), you must not buy a 'substantially identical' security within 30 days before or after the sale.\n\nKey Beginner Takeaway: Understanding tax-loss harvesting (tlh) and the irs wash-sale rule helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Tax-loss harvesting involves selling a security currently at an unrealized loss in a taxable account to offset realized capital gains and up to $3,000 of ordinary income per year (with unused losses carried forward indef...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "tax-loss",
+      "harvesting",
+      "tlh",
+      "wash-sale",
+      "rule",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-068",
+    "title": "Asset Location: Optimizing Accounts for Tax Efficiency",
+    "category": "tax_and_retirement",
+    "content": "Asset Location places tax-inefficient assets (REITs, high-yield corporate bonds, actively managed funds) inside tax-sheltered accounts (IRA/401k), while holding tax-efficient assets (broad equity ETFs, foreign stock ETFs eligible for Foreign Tax Credit, and municipal bonds) in taxable brokerage accounts to boost after-tax returns by 0.20%-0.50% annually.\n\nKey Beginner Takeaway: Understanding asset location: optimizing accounts for tax efficiency helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Asset Location places tax-inefficient assets (REITs, high-yield corporate bonds, actively managed funds) inside tax-sheltered accounts (IRA/401k), while holding tax-efficient assets (broad equity ETFs, foreign stock ETFs...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "asset",
+      "location",
+      "optimizing",
+      "accounts",
+      "efficiency",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-069",
+    "title": "529 Education Savings Plans and Roth IRA Rollover Rules",
+    "category": "tax_and_retirement",
+    "content": "529 plans allow after-tax contributions to grow tax-deferred and be withdrawn 100% federally tax-free for qualified education expenses (college tuition, room/board, and up to $10,000/yr K-12 tuition). Under SECURE Act 2.0, unused 529 funds held for 15+ years can be rolled over into a Roth IRA for the beneficiary up to a $35,000 lifetime cap.\n\nKey Beginner Takeaway: Understanding 529 education savings plans and roth ira rollover rules helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "529 plans allow after-tax contributions to grow tax-deferred and be withdrawn 100% federally tax-free for qualified education expenses (college tuition, room/board, and up to $10,000/yr K-12 tuition). Under SECURE Act 2....",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Intermediate",
+    "tags": [
+      "education",
+      "savings",
+      "plans",
+      "roth",
+      "rollover",
+      "rules",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-070",
+    "title": "Required Minimum Distributions (RMDs) and SECURE Act 2.0",
+    "category": "tax_and_retirement",
+    "content": "The IRS requires owners of Traditional IRAs and 401(k)s to begin taking annual Required Minimum Distributions (RMDs) starting at age 73 (rising to age 75 in 2033 under SECURE 2.0) based on IRS life expectancy tables. Roth IRAs and Roth 401(k)s have no lifetime RMDs, enabling tax-free compounding throughout retirement.\n\nKey Beginner Takeaway: Understanding required minimum distributions (rmds) and secure act 2.0 helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The IRS requires owners of Traditional IRAs and 401(k)s to begin taking annual Required Minimum Distributions (RMDs) starting at age 73 (rising to age 75 in 2033 under SECURE 2.0) based on IRS life expectancy tables. Rot...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "required",
+      "minimum",
+      "distributions",
+      "rmds",
+      "secure",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-071",
+    "title": "Cost Basis Accounting Methods: FIFO vs. Specific Identification",
+    "category": "tax_and_retirement",
+    "content": "When selling a partial position in a taxable account, First-In, First-Out (FIFO) sells the oldest shares first, which often have the lowest cost basis and largest taxable gain. Selecting Specific Identification (SpecID) or Tax-Sensitive lot selection instructs the broker to sell high-cost-basis lots held >1 year, minimizing tax liability.\n\nKey Beginner Takeaway: Understanding cost basis accounting methods: fifo vs. specific identification helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "When selling a partial position in a taxable account, First-In, First-Out (FIFO) sells the oldest shares first, which often have the lowest cost basis and largest taxable gain. Selecting Specific Identification (SpecID) ...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Beginner",
+    "tags": [
+      "cost",
+      "basis",
+      "accounting",
+      "methods",
+      "fifo",
+      "specific",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-072",
+    "title": "Progressive Marginal Tax Brackets vs. Effective Tax Rate",
+    "category": "tax_and_retirement",
+    "content": "The U.S. federal income tax system is progressive: only the dollars earned above each bracket threshold are taxed at that higher marginal rate, never your entire income. Your effective tax rate is Total Tax Paid divided by Total Gross Income, which is always significantly lower than your top marginal tax bracket.\n\nKey Beginner Takeaway: Understanding progressive marginal tax brackets vs. effective tax rate helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The U.S. federal income tax system is progressive: only the dollars earned above each bracket threshold are taxed at that higher marginal rate, never your entire income. Your effective tax rate is Total Tax Paid divided ...",
+    "source": "IRS Publications & Bogleheads Tax Guide",
+    "source_url": "https://www.irs.gov/retirement-plans",
+    "difficulty": "Intermediate",
+    "tags": [
+      "progressive",
+      "marginal",
+      "brackets",
+      "effective",
+      "rate",
+      "tax_and_retirement"
+    ]
+  },
+  {
+    "id": "ART-073",
+    "title": "Federal Reserve Monetary Policy and the Federal Funds Rate",
+    "category": "market_intelligence_and_macro",
+    "content": "The Federal Reserve executes a dual mandate of maximum employment and stable prices (~2% inflation). By raising or lowering the target Federal Funds Rate and managing its balance sheet (Quantitative Easing/Tightening), the Fed influences borrowing costs across mortgages, corporate bonds, and equity valuation discount rates.\n\nKey Beginner Takeaway: Understanding federal reserve monetary policy and the federal funds rate helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The Federal Reserve executes a dual mandate of maximum employment and stable prices (~2% inflation). By raising or lowering the target Federal Funds Rate and managing its balance sheet (Quantitative Easing/Tightening), t...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "federal",
+      "reserve",
+      "monetary",
+      "policy",
+      "federal",
+      "funds",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-074",
+    "title": "Consumer Price Index (CPI) vs. Personal Consumption Expenditures (PCE)",
+    "category": "market_intelligence_and_macro",
+    "content": "Headline CPI measures price changes across an urban consumer basket, while Core PCE (excluding volatile food and energy) is the Federal Reserve's preferred inflation gauge. Persistent core inflation above 2% typically keeps interest rates elevated, compressing multiples on long-duration growth stocks.\n\nKey Beginner Takeaway: Understanding consumer price index (cpi) vs. personal consumption expenditures (pce) helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Headline CPI measures price changes across an urban consumer basket, while Core PCE (excluding volatile food and energy) is the Federal Reserve's preferred inflation gauge. Persistent core inflation above 2% typically ke...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "consumer",
+      "price",
+      "index",
+      "cpi",
+      "personal",
+      "consumption",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-075",
+    "title": "Gross Domestic Product (GDP) and the Business Cycle",
+    "category": "market_intelligence_and_macro",
+    "content": "GDP measures the total market value of all final goods and services produced within a country (`C + I + G + NX`). Economies cycle through four phases: Expansion, Peak, Contraction (Recession), and Trough. Equity markets are forward-looking leading indicators, typically bottoming 3 to 6 months before GDP officially exits a recession.\n\nKey Beginner Takeaway: Understanding gross domestic product (gdp) and the business cycle helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "GDP measures the total market value of all final goods and services produced within a country (`C + I + G + NX`). Economies cycle through four phases: Expansion, Peak, Contraction (Recession), and Trough. Equity markets ...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "gross",
+      "domestic",
+      "product",
+      "gdp",
+      "business",
+      "cycle",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-076",
+    "title": "Bull Markets, Bear Markets, and Market Corrections",
+    "category": "market_intelligence_and_macro",
+    "content": "A market correction is defined as a decline of 10% to 19.9% from a recent high, occurring on average once every 1 to 2 years. A bear market is a decline of 20% or more, occurring roughly every 4 to 6 years. Despite periodic bear markets, U.S. bull markets have historically lasted roughly 4x longer and delivered far larger cumulative gains.\n\nKey Beginner Takeaway: Understanding bull markets, bear markets, and market corrections helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "A market correction is defined as a decline of 10% to 19.9% from a recent high, occurring on average once every 1 to 2 years. A bear market is a decline of 20% or more, occurring roughly every 4 to 6 years. Despite perio...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "bull",
+      "markets",
+      "bear",
+      "markets",
+      "market",
+      "corrections",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-077",
+    "title": "VIX: The CBOE Volatility Index Explained",
+    "category": "market_intelligence_and_macro",
+    "content": "Known as the market's 'fear gauge,' the VIX measures 30-day expected annualized volatility of the S&P 500 implied by index option prices. A VIX below 15 signals calm market complacency; 15-25 represents normal conditions; spikes above 30 indicate acute market panic and historically coincide with attractive long-term buying opportunities.\n\nKey Beginner Takeaway: Understanding vix: the cboe volatility index explained helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Known as the market's 'fear gauge,' the VIX measures 30-day expected annualized volatility of the S&P 500 implied by index option prices. A VIX below 15 signals calm market complacency; 15-25 represents normal conditions...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "vix",
+      "cboe",
+      "volatility",
+      "index",
+      "explained",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-078",
+    "title": "Technical Indicators: Simple Moving Averages (SMA 50 & SMA 200)",
+    "category": "market_intelligence_and_macro",
+    "content": "Moving averages smooth out daily price noise to identify trend direction. The 50-day SMA reflects intermediate momentum, while the 200-day SMA represents the primary long-term trend. When the 50-day SMA crosses above the 200-day SMA, it forms a bullish 'Golden Cross'; crossing below forms a bearish 'Death Cross.'\n\nKey Beginner Takeaway: Understanding technical indicators: simple moving averages (sma 50 & sma 200) helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Moving averages smooth out daily price noise to identify trend direction. The 50-day SMA reflects intermediate momentum, while the 200-day SMA represents the primary long-term trend. When the 50-day SMA crosses above the...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "technical",
+      "indicators",
+      "simple",
+      "moving",
+      "averages",
+      "sma",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-079",
+    "title": "Relative Strength Index (RSI) and MACD Momentum Signals",
+    "category": "market_intelligence_and_macro",
+    "content": "The Relative Strength Index (RSI) oscillates between 0 and 100 over a 14-day period; readings above 70 suggest an asset may be\u77ed\u671f overbought, while readings below 30 suggest oversold conditions. MACD (Moving Average Convergence Divergence) tracks the difference between 12-day and 26-day exponential moving averages to spot trend shifts.\n\nKey Beginner Takeaway: Understanding relative strength index (rsi) and macd momentum signals helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "The Relative Strength Index (RSI) oscillates between 0 and 100 over a 14-day period; readings above 70 suggest an asset may be\u77ed\u671f overbought, while readings below 30 suggest oversold conditions. MACD (Moving Average Conve...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "relative",
+      "strength",
+      "index",
+      "rsi",
+      "macd",
+      "momentum",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-080",
+    "title": "Earnings Season, Forward Guidance, and Consensus Surprises",
+    "category": "market_intelligence_and_macro",
+    "content": "Every quarter, public companies file Form 10-Q/10-K reports with the SEC. Stock reactions during earnings season depend not only on whether actual revenue and EPS beat Wall Street consensus estimates, but heavily on management's forward guidance for upcoming quarters.\n\nKey Beginner Takeaway: Understanding earnings season, forward guidance, and consensus surprises helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Every quarter, public companies file Form 10-Q/10-K reports with the SEC. Stock reactions during earnings season depend not only on whether actual revenue and EPS beat Wall Street consensus estimates, but heavily on mana...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "earnings",
+      "season",
+      "forward",
+      "guidance",
+      "consensus",
+      "surprises",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-081",
+    "title": "Labor Market Indicators: Nonfarm Payrolls and Unemployment Rate",
+    "category": "market_intelligence_and_macro",
+    "content": "Monthly Bureau of Labor Statistics (BLS) Employment Situation reports track Nonfarm Payroll growth, the U-3 unemployment rate, and average hourly earnings. Strong job growth supports consumer spending (70% of US GDP), though overheating wage growth can trigger Fed tightening concerns.\n\nKey Beginner Takeaway: Understanding labor market indicators: nonfarm payrolls and unemployment rate helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Monthly Bureau of Labor Statistics (BLS) Employment Situation reports track Nonfarm Payroll growth, the U-3 unemployment rate, and average hourly earnings. Strong job growth supports consumer spending (70% of US GDP), th...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "labor",
+      "market",
+      "indicators",
+      "nonfarm",
+      "payrolls",
+      "unemployment",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-082",
+    "title": "Currency Exchange Rates and U.S. Dollar Index (DXY) Impact",
+    "category": "market_intelligence_and_macro",
+    "content": "A strong U.S. dollar reduces the dollar-translated revenue of U.S. multinationals (like S&P 500 tech and consumer giants that generate 40%+ of sales overseas) and pressures emerging-market dollar-denominated debt, while making imports and international travel cheaper for U.S. consumers.\n\nKey Beginner Takeaway: Understanding currency exchange rates and u.s. dollar index (dxy) impact helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "A strong U.S. dollar reduces the dollar-translated revenue of U.S. multinationals (like S&P 500 tech and consumer giants that generate 40%+ of sales overseas) and pressures emerging-market dollar-denominated debt, while ...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "currency",
+      "exchange",
+      "rates",
+      "u.s",
+      "dollar",
+      "index",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-083",
+    "title": "Reading Financial News Critically: Separating Signal from Noise",
+    "category": "market_intelligence_and_macro",
+    "content": "Financial media optimizes for clicks using sensational headlines about daily market swings. Long-term investors separate structural macroeconomic/fundamental shifts (signal) from daily commentary (noise) by asking whether a headline alters 5-to-10-year corporate cash flows.\n\nKey Beginner Takeaway: Understanding reading financial news critically: separating signal from noise helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Financial media optimizes for clicks using sensational headlines about daily market swings. Long-term investors separate structural macroeconomic/fundamental shifts (signal) from daily commentary (noise) by asking whethe...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Beginner",
+    "tags": [
+      "reading",
+      "financial",
+      "news",
+      "critically",
+      "separating",
+      "signal",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-084",
+    "title": "Sentiment Analysis in Financial Markets",
+    "category": "market_intelligence_and_macro",
+    "content": "Market sentiment aggregates investor psychology across news headlines, analyst revisions, put/call ratios, and AAII bull-bear surveys. Extreme bearish sentiment often acts as a contrarian indicator because most weak hands have already sold, whereas extreme euphoria warns of crowded positioning.\n\nKey Beginner Takeaway: Understanding sentiment analysis in financial markets helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Market sentiment aggregates investor psychology across news headlines, analyst revisions, put/call ratios, and AAII bull-bear surveys. Extreme bearish sentiment often acts as a contrarian indicator because most weak hand...",
+    "source": "Federal Reserve Education & FRED",
+    "source_url": "https://www.federalreserveeducation.org/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "sentiment",
+      "analysis",
+      "financial",
+      "markets",
+      "market_intelligence_and_macro"
+    ]
+  },
+  {
+    "id": "ART-085",
+    "title": "Loss Aversion and Prospect Theory",
+    "category": "behavioral_finance_and_risk",
+    "content": "Pioneered by Nobel laureates Daniel Kahneman and Amos Tversky, Prospect Theory shows that the psychological pain of losing $1,000 is roughly twice as intense as the pleasure of gaining $1,000. Loss aversion causes investors to panic-sell at market bottoms or hold losing positions too long hoping to 'get back to even.'\n\nKey Beginner Takeaway: Understanding loss aversion and prospect theory helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Pioneered by Nobel laureates Daniel Kahneman and Amos Tversky, Prospect Theory shows that the psychological pain of losing $1,000 is roughly twice as intense as the pleasure of gaining $1,000. Loss aversion causes invest...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "loss",
+      "aversion",
+      "prospect",
+      "theory",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-086",
+    "title": "Recency Bias and Performance Chasing",
+    "category": "behavioral_finance_and_risk",
+    "content": "Recency bias leads investors to extrapolate recent market events indefinitely into the future\u2014buying heavily into hot sectors after a 100% rally (FOMO) and abandoning stocks after a bear market. Morningstar's 'Mind the Gap' study shows performance chasing costs the average investor ~1.5% per year compared to buy-and-hold fund returns.\n\nKey Beginner Takeaway: Understanding recency bias and performance chasing helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Recency bias leads investors to extrapolate recent market events indefinitely into the future\u2014buying heavily into hot sectors after a 100% rally (FOMO) and abandoning stocks after a bear market. Morningstar's 'Mind the G...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "recency",
+      "bias",
+      "performance",
+      "chasing",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-087",
+    "title": "Confirmation Bias and Overconfidence in Stock Picking",
+    "category": "behavioral_finance_and_risk",
+    "content": "Confirmation bias causes investors to seek out news and social media posts that validate their existing stock picks while dismissing bearish risk factors. Combined with overconfidence, this leads to excessive trading volume and under-diversified portfolios.\n\nKey Beginner Takeaway: Understanding confirmation bias and overconfidence in stock picking helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Confirmation bias causes investors to seek out news and social media posts that validate their existing stock picks while dismissing bearish risk factors. Combined with overconfidence, this leads to excessive trading vol...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Intermediate",
+    "tags": [
+      "confirmation",
+      "bias",
+      "overconfidence",
+      "stock",
+      "picking",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-088",
+    "title": "Herd Mentality, Speculative Bubbles, and FOMO",
+    "category": "behavioral_finance_and_risk",
+    "content": "From the 1999 Dot-Com Bubble to meme-stock manias, herd behavior drives asset prices far above discounted cash flow fundamentals as investors buy solely because prices are rising. Pre-committing to a written Investment Policy Statement (IPS) protects against emotional crowd behavior.\n\nKey Beginner Takeaway: Understanding herd mentality, speculative bubbles, and fomo helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "From the 1999 Dot-Com Bubble to meme-stock manias, herd behavior drives asset prices far above discounted cash flow fundamentals as investors buy solely because prices are rising. Pre-committing to a written Investment P...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "herd",
+      "mentality",
+      "speculative",
+      "bubbles",
+      "fomo",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-089",
+    "title": "Anchoring Bias and Sunk Cost Fallacy",
+    "category": "behavioral_finance_and_risk",
+    "content": "Investors frequently anchor on the arbitrary price they paid for a stock or its all-time high, refusing to sell a deteriorating business until it returns to their purchase price. Markets have no memory of your cost basis; every holding should be evaluated on forward risk/reward from today's price.\n\nKey Beginner Takeaway: Understanding anchoring bias and sunk cost fallacy helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Investors frequently anchor on the arbitrary price they paid for a stock or its all-time high, refusing to sell a deteriorating business until it returns to their purchase price. Markets have no memory of your cost basis...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "anchoring",
+      "bias",
+      "sunk",
+      "cost",
+      "fallacy",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-090",
+    "title": "Home Country Bias in Global Portfolios",
+    "category": "behavioral_finance_and_risk",
+    "content": "Investors worldwide heavily overweight domestic equities (often 85%-100% in their home country) due to familiarity. While the U.S. accounts for ~60% of global market cap, maintaining 20%-35% international exposure guards against decade-long domestic flat periods like 2000-2009.\n\nKey Beginner Takeaway: Understanding home country bias in global portfolios helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Investors worldwide heavily overweight domestic equities (often 85%-100% in their home country) due to familiarity. While the U.S. accounts for ~60% of global market cap, maintaining 20%-35% international exposure guards...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Intermediate",
+    "tags": [
+      "home",
+      "country",
+      "bias",
+      "global",
+      "portfolios",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-091",
+    "title": "Mental Accounting and Portfolio Holistic View",
+    "category": "behavioral_finance_and_risk",
+    "content": "Coined by Richard Thaler, mental accounting occurs when people treat money differently depending on its source (e.g., gambling with a tax refund or bonus while keeping retirement accounts overly conservative). Viewing all accounts as a single unified household balance sheet produces superior risk-adjusted allocation.\n\nKey Beginner Takeaway: Understanding mental accounting and portfolio holistic view helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Coined by Richard Thaler, mental accounting occurs when people treat money differently depending on its source (e.g., gambling with a tax refund or bonus while keeping retirement accounts overly conservative). Viewing al...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "mental",
+      "accounting",
+      "portfolio",
+      "holistic",
+      "view",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-092",
+    "title": "Writing a Personal Investment Policy Statement (IPS)",
+    "category": "behavioral_finance_and_risk",
+    "content": "An Investment Policy Statement is a 1-page written charter defining your financial goals, target asset allocation percentages, permissible low-cost funds, rebalancing rules, and a pledge never to panic-sell during market drops. Reviewing your IPS during volatility keeps decision-making rational.\n\nKey Beginner Takeaway: Understanding writing a personal investment policy statement (ips) helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "An Investment Policy Statement is a 1-page written charter defining your financial goals, target asset allocation percentages, permissible low-cost funds, rebalancing rules, and a pledge never to panic-sell during market...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "writing",
+      "personal",
+      "investment",
+      "policy",
+      "statement",
+      "ips",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-093",
+    "title": "Fraud Prevention: Spotting Ponzi Schemes and Pump-and-Dumps",
+    "category": "behavioral_finance_and_risk",
+    "content": "Investment scams invariably promise 'guaranteed high returns with zero risk' or pressure immediate action via social media/messaging groups. Legitimate investments carry market risk and are registered with the SEC/FINRA. Always verify advisor registration on FINRA BrokerCheck.\n\nKey Beginner Takeaway: Understanding fraud prevention: spotting ponzi schemes and pump-and-dumps helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Investment scams invariably promise 'guaranteed high returns with zero risk' or pressure immediate action via social media/messaging groups. Legitimate investments carry market risk and are registered with the SEC/FINRA....",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Intermediate",
+    "tags": [
+      "fraud",
+      "prevention",
+      "spotting",
+      "ponzi",
+      "schemes",
+      "pump-and-dumps",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-094",
+    "title": "Margin Trading, Leverage, and Margin Call Risks",
+    "category": "behavioral_finance_and_risk",
+    "content": "Buying stocks on margin borrows money from a broker using existing securities as collateral. While leverage magnifies gains, a market decline can drop account equity below the maintenance margin requirement (typically 25%-30%), triggering a forced Margin Call liquidation at market lows.\n\nKey Beginner Takeaway: Understanding margin trading, leverage, and margin call risks helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Buying stocks on margin borrows money from a broker using existing securities as collateral. While leverage magnifies gains, a market decline can drop account equity below the maintenance margin requirement (typically 25...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "margin",
+      "trading",
+      "leverage",
+      "margin",
+      "call",
+      "risks",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-095",
+    "title": "Options Basics and Why Beginners Should Avoid Naked Speculation",
+    "category": "behavioral_finance_and_risk",
+    "content": "Call and put options are decaying derivative contracts with expiration dates. Unlike shares of an index ETF that can recover over time, out-of-the-money short-term options expire 100% worthless if the stock does not move fast enough, functioning more like lottery tickets than wealth-building investments.\n\nKey Beginner Takeaway: Understanding options basics and why beginners should avoid naked speculation helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Call and put options are decaying derivative contracts with expiration dates. Unlike shares of an index ETF that can recover over time, out-of-the-money short-term options expire 100% worthless if the stock does not move...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Beginner",
+    "tags": [
+      "options",
+      "basics",
+      "beginners",
+      "should",
+      "avoid",
+      "naked",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-096",
+    "title": "Regulatory Disclaimers: Financial Education vs. Fiduciary Advice",
+    "category": "behavioral_finance_and_risk",
+    "content": "AI financial assistants and educational platforms provide generalized financial literacy, mathematical projections, and objective data analysis\u2014not personalized legal, tax, or fiduciary investment advice. Investors should verify assumptions and consult a Certified Financial Planner (CFP) or CPA for complex individual circumstances.\n\nKey Beginner Takeaway: Understanding regulatory disclaimers: financial education vs. fiduciary advice helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "AI financial assistants and educational platforms provide generalized financial literacy, mathematical projections, and objective data analysis\u2014not personalized legal, tax, or fiduciary investment advice. Investors shoul...",
+    "source": "CFA Behavioral Finance & Kahneman/Tversky",
+    "source_url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+    "difficulty": "Intermediate",
+    "tags": [
+      "regulatory",
+      "disclaimers",
+      "financial",
+      "education",
+      "fiduciary",
+      "advice",
+      "behavioral_finance_and_risk"
+    ]
+  },
+  {
+    "id": "ART-097",
+    "title": "The 50/30/20 Budgeting Framework",
+    "category": "personal_finance_and_goals",
+    "content": "Popularized by Elizabeth Warren, the 50/30/20 rule allocates after-tax take-home income into three buckets: 50% for Needs (housing, groceries, utilities, minimum debt payments, insurance), 30% for Wants (dining out, travel, hobbies), and at least 20% for Savings & Investing.\n\nKey Beginner Takeaway: Understanding the 50/30/20 budgeting framework helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Popularized by Elizabeth Warren, the 50/30/20 rule allocates after-tax take-home income into three buckets: 50% for Needs (housing, groceries, utilities, minimum debt payments, insurance), 30% for Wants (dining out, trav...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "50/30/20",
+      "budgeting",
+      "framework",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-098",
+    "title": "High-Interest Debt Payoff: Avalanche vs. Snowball Methods",
+    "category": "personal_finance_and_goals",
+    "content": "Credit card debt carrying 20%-28% APR compounds against you faster than stock market returns can compound for you. The Debt Avalanche method pays extra toward the highest interest rate debt first (mathematically optimal), while the Debt Snowball knocks out the smallest balance first for quick psychological wins.\n\nKey Beginner Takeaway: Understanding high-interest debt payoff: avalanche vs. snowball methods helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Credit card debt carrying 20%-28% APR compounds against you faster than stock market returns can compound for you. The Debt Avalanche method pays extra toward the highest interest rate debt first (mathematically optimal)...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "high-interest",
+      "debt",
+      "payoff",
+      "avalanche",
+      "snowball",
+      "methods",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-099",
+    "title": "Savings Rate: The Most Controllable Lever for Wealth",
+    "category": "personal_finance_and_goals",
+    "content": "Early in your financial journey, your savings rate (annual savings / gross or net income) impacts wealth accumulation far more than investment return differences. Raising your savings rate from 10% to 20% both doubles annual capital invested and permanently lowers the annual lifestyle expenses your portfolio must replace.\n\nKey Beginner Takeaway: Understanding savings rate: the most controllable lever for wealth helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Early in your financial journey, your savings rate (annual savings / gross or net income) impacts wealth accumulation far more than investment return differences. Raising your savings rate from 10% to 20% both doubles an...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "savings",
+      "rate",
+      "most",
+      "controllable",
+      "lever",
+      "wealth",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-100",
+    "title": "Financial Independence, Retire Early (FIRE) and the 25x Rule",
+    "category": "personal_finance_and_goals",
+    "content": "Derived from the 4% Safe Withdrawal Rate, your Financial Independence (FI) Number equals 25 times your projected annual retirement expenses (e.g., $60,000/yr spending requires a $1,500,000 portfolio). Variants include CoastFI (enough invested early that compounding reaches retirement without new contributions) and BaristaFI.\n\nKey Beginner Takeaway: Understanding financial independence, retire early (fire) and the 25x rule helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Derived from the 4% Safe Withdrawal Rate, your Financial Independence (FI) Number equals 25 times your projected annual retirement expenses (e.g., $60,000/yr spending requires a $1,500,000 portfolio). Variants include Co...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "financial",
+      "independence",
+      "retire",
+      "early",
+      "fire",
+      "rule",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-101",
+    "title": "Planning for a Home Down Payment vs. Retirement",
+    "category": "personal_finance_and_goals",
+    "content": "Money needed for a home down payment within 1 to 4 years should not be exposed to stock market drawdowns; instead, store it in High-Yield Savings Accounts, Treasury bills, or CDs. Only goals 5+ years away should carry meaningful equity exposure.\n\nKey Beginner Takeaway: Understanding planning for a home down payment vs. retirement helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Money needed for a home down payment within 1 to 4 years should not be exposed to stock market drawdowns; instead, store it in High-Yield Savings Accounts, Treasury bills, or CDs. Only goals 5+ years away should carry me...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "planning",
+      "home",
+      "down",
+      "payment",
+      "retirement",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-102",
+    "title": "Credit Scores (FICO) and Borrowing Cost Optimization",
+    "category": "personal_finance_and_goals",
+    "content": "FICO credit scores (300 to 850) are weighted by Payment History (35%), Credit Utilization (<10%-30% ideal, 30% weight), Length of Credit History (15%), New Credit (10%), and Credit Mix (10%). Maintaining a 760+ score saves tens of thousands of dollars in lower mortgage and auto loan APRs.\n\nKey Beginner Takeaway: Understanding credit scores (fico) and borrowing cost optimization helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "FICO credit scores (300 to 850) are weighted by Payment History (35%), Credit Utilization (<10%-30% ideal, 30% weight), Length of Credit History (15%), New Credit (10%), and Credit Mix (10%). Maintaining a 760+ score sav...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "credit",
+      "scores",
+      "fico",
+      "borrowing",
+      "cost",
+      "optimization",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-103",
+    "title": "Insurance as Risk Transfer: Term Life and Disability",
+    "category": "personal_finance_and_goals",
+    "content": "Before wealth is built, your largest asset is your future earning power. Pure Term Life Insurance (20-30 year level term) protects dependents at a fraction of the cost of high-commission Whole/Universal Life policies. Long-term disability insurance protects income if illness or injury prevents working.\n\nKey Beginner Takeaway: Understanding insurance as risk transfer: term life and disability helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Before wealth is built, your largest asset is your future earning power. Pure Term Life Insurance (20-30 year level term) protects dependents at a fraction of the cost of high-commission Whole/Universal Life policies. Lo...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "insurance",
+      "risk",
+      "transfer",
+      "term",
+      "life",
+      "disability",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-104",
+    "title": "automating Your Financial Life ('Pay Yourself First')",
+    "category": "personal_finance_and_goals",
+    "content": "Setting up automatic payroll deductions into a 401(k) and automated monthly transfers into an IRA/brokerage account on payday removes willpower from saving. Studies show automated savers consistently accumulate 2x to 3x more wealth than those who manually transfer 'whatever is left' at month-end.\n\nKey Beginner Takeaway: Understanding automating your financial life ('pay yourself first') helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Setting up automatic payroll deductions into a 401(k) and automated monthly transfers into an IRA/brokerage account on payday removes willpower from saving. Studies show automated savers consistently accumulate 2x to 3x ...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "automating",
+      "your",
+      "financial",
+      "life",
+      "'pay",
+      "yourself",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-105",
+    "title": "Lifestyle Creep and Hedonic Adaptation",
+    "category": "personal_finance_and_goals",
+    "content": "Lifestyle creep occurs when spending rises at the same rate as salary raises and bonuses, leaving net savings stagnant despite high income. Saving 50% of every future raise or bonus allows you to enjoy an upgraded lifestyle today while accelerating your retirement timeline.\n\nKey Beginner Takeaway: Understanding lifestyle creep and hedonic adaptation helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Lifestyle creep occurs when spending rises at the same rate as salary raises and bonuses, leaving net savings stagnant despite high income. Saving 50% of every future raise or bonus allows you to enjoy an upgraded lifest...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "lifestyle",
+      "creep",
+      "hedonic",
+      "adaptation",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-106",
+    "title": "Calculating Net Worth and Tracking Financial Health",
+    "category": "personal_finance_and_goals",
+    "content": "Net Worth equals Total Assets (retirement accounts, brokerage, cash, home equity) minus Total Liabilities (mortgages, student loans, auto/credit debt). Tracking net worth quarterly shifts focus from short-term salary to long-term capital ownership.\n\nKey Beginner Takeaway: Understanding calculating net worth and tracking financial health helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Net Worth equals Total Assets (retirement accounts, brokerage, cash, home equity) minus Total Liabilities (mortgages, student loans, auto/credit debt). Tracking net worth quarterly shifts focus from short-term salary to ...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "calculating",
+      "worth",
+      "tracking",
+      "financial",
+      "health",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-107",
+    "title": "Evaluating Job Offers: Total Compensation, Equity, and Benefits",
+    "category": "personal_finance_and_goals",
+    "content": "Total compensation includes Base Salary, Annual Bonus, Restricted Stock Units (RSUs) or stock options, 401(k) match, HSA seed contributions, and ESPP (Employee Stock Purchase Plans offering 15% discounts). To prevent single-company risk (where both paycheck and portfolio depend on one employer), diversify vested RSUs promptly.\n\nKey Beginner Takeaway: Understanding evaluating job offers: total compensation, equity, and benefits helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Total compensation includes Base Salary, Annual Bonus, Restricted Stock Units (RSUs) or stock options, 401(k) match, HSA seed contributions, and ESPP (Employee Stock Purchase Plans offering 15% discounts). To prevent sin...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Beginner",
+    "tags": [
+      "evaluating",
+      "offers",
+      "total",
+      "compensation",
+      "equity",
+      "benefits",
+      "personal_finance_and_goals"
+    ]
+  },
+  {
+    "id": "ART-108",
+    "title": "Estate Planning Essentials: Beneficiaries, Wills, and Trusts",
+    "category": "personal_finance_and_goals",
+    "content": "Designated beneficiaries on 401(k)s, IRAs, and Transfer-on-Death (TOD) brokerage accounts supersede instructions in a will and bypass probate. Reviewing primary and contingent beneficiaries annually ensures assets transfer smoothly according to your wishes.\n\nKey Beginner Takeaway: Understanding estate planning essentials: beneficiaries, wills, and trusts helps investors make disciplined, evidence-based decisions aligned with their time horizon and risk tolerance. Always prioritize low fees, broad diversification, and tax efficiency before attempting complex strategies.",
+    "summary": "Designated beneficiaries on 401(k)s, IRAs, and Transfer-on-Death (TOD) brokerage accounts supersede instructions in a will and bypass probate. Reviewing primary and contingent beneficiaries annually ensures assets transf...",
+    "source": "CFPB & SEC Investor.gov",
+    "source_url": "https://www.consumerfinance.gov/consumer-tools/",
+    "difficulty": "Intermediate",
+    "tags": [
+      "estate",
+      "planning",
+      "essentials",
+      "beneficiaries",
+      "wills",
+      "trusts",
+      "personal_finance_and_goals"
+    ]
+  }
+]

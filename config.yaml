@@ -1,0 +1,39 @@
+# AI Finance Assistant Configuration
+app_name: "AI Finance Assistant"
+version: "2.0.0"
+
+llm:
+  provider: "gemini"
+  model: "gemini-2.0-flash"
+  temperature: 0.2
+  max_tokens: 1200
+  rate_limit_rpm: 60
+
+rag:
+  vector_db: "faiss"
+  top_k: 4
+  chunk_size: 450
+  chunk_overlap: 75
+  min_relevance_score: 0.05
+
+market_data:
+  primary_provider: "yfinance"
+  fallback_provider: "alpha_vantage"
+  cache_ttl_seconds: 1800
+  max_retries: 3
+  backoff_base_seconds: 1.0
+
+financial_defaults:
+  risk_free_rate: 0.0435
+  default_inflation_rate: 0.028
+  monte_carlo_trials: 1000
+  safe_withdrawal_rate: 0.04
+
+agents:
+  enabled:
+    - finance_qa_agent
+    - portfolio_analysis_agent
+    - market_analysis_agent
+    - goal_planning_agent
+    - news_synthesizer_agent
+    - tax_education_agent

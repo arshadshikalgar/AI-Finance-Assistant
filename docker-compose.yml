@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  ai-finance-web:
+    build: .
+    container_name: ai_finance_assistant_web
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env.example
+    volumes:
+      - ./src/data/market_cache:/app/src/data/market_cache
+    restart: unless-stopped
+
+  ai-finance-mcp:
+    build: .
+    container_name: ai_finance_assistant_mcp
+    command: ["python3", "src/mcp_server/server.py"]
+    stdin_open: true
+    tty: true
+    env_file:
+      - .env.example

@@ -1,0 +1,219 @@
+{
+  "beginner_balanced": {
+    "name": "Beginner Boglehead Three-Fund",
+    "description": "Low-cost, globally diversified index portfolio ideal for moderate-growth beginners.",
+    "risk_tolerance": "Moderate",
+    "holdings": [
+      {
+        "ticker": "VTI",
+        "name": "Vanguard Total Stock Market ETF",
+        "shares": 120,
+        "avg_cost": 225.0,
+        "current_price": 278.5,
+        "asset_class": "US Equity",
+        "sector": "Broad Market",
+        "expense_ratio": 0.0003,
+        "dividend_yield": 0.0135,
+        "beta": 1.01,
+        "expected_return": 0.088,
+        "volatility": 0.155
+      },
+      {
+        "ticker": "VXUS",
+        "name": "Vanguard Total International Stock ETF",
+        "shares": 200,
+        "avg_cost": 56.0,
+        "current_price": 62.4,
+        "asset_class": "International Equity",
+        "sector": "Broad International",
+        "expense_ratio": 0.0007,
+        "dividend_yield": 0.031,
+        "beta": 0.88,
+        "expected_return": 0.078,
+        "volatility": 0.165
+      },
+      {
+        "ticker": "BND",
+        "name": "Vanguard Total Bond Market ETF",
+        "shares": 150,
+        "avg_cost": 74.5,
+        "current_price": 73.2,
+        "asset_class": "Fixed Income",
+        "sector": "Government/Corp Bonds",
+        "expense_ratio": 0.0003,
+        "dividend_yield": 0.0435,
+        "beta": 0.05,
+        "expected_return": 0.046,
+        "volatility": 0.058
+      },
+      {
+        "ticker": "SGOV",
+        "name": "iShares 0-3 Month Treasury Bond ETF",
+        "shares": 50,
+        "avg_cost": 100.1,
+        "current_price": 100.35,
+        "asset_class": "Cash Equivalents",
+        "sector": "US Treasuries",
+        "expense_ratio": 0.0009,
+        "dividend_yield": 0.0485,
+        "beta": 0.0,
+        "expected_return": 0.045,
+        "volatility": 0.005
+      }
+    ]
+  },
+  "tech_concentrated_growth": {
+    "name": "Aggressive Tech-Heavy Growth",
+    "description": "High-growth equity portfolio with heavy technology concentration and elevated volatility.",
+    "risk_tolerance": "Aggressive",
+    "holdings": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "shares": 180,
+        "avg_cost": 85.0,
+        "current_price": 138.6,
+        "asset_class": "US Equity",
+        "sector": "Technology",
+        "expense_ratio": 0.0,
+        "dividend_yield": 0.0003,
+        "beta": 1.68,
+        "expected_return": 0.135,
+        "volatility": 0.42
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "shares": 45,
+        "avg_cost": 360.0,
+        "current_price": 428.5,
+        "asset_class": "US Equity",
+        "sector": "Technology",
+        "expense_ratio": 0.0,
+        "dividend_yield": 0.0072,
+        "beta": 0.95,
+        "expected_return": 0.105,
+        "volatility": 0.22
+      },
+      {
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "shares": 65,
+        "avg_cost": 185.0,
+        "current_price": 231.2,
+        "asset_class": "US Equity",
+        "sector": "Technology",
+        "expense_ratio": 0.0,
+        "dividend_yield": 0.0044,
+        "beta": 1.18,
+        "expected_return": 0.098,
+        "volatility": 0.24
+      },
+      {
+        "ticker": "QQQ",
+        "name": "Invesco QQQ Trust (Nasdaq-100)",
+        "shares": 30,
+        "avg_cost": 410.0,
+        "current_price": 495.8,
+        "asset_class": "US Equity",
+        "sector": "Technology",
+        "expense_ratio": 0.002,
+        "dividend_yield": 0.0058,
+        "beta": 1.19,
+        "expected_return": 0.102,
+        "volatility": 0.21
+      },
+      {
+        "ticker": "ARKK",
+        "name": "ARK Innovation ETF",
+        "shares": 100,
+        "avg_cost": 62.0,
+        "current_price": 48.9,
+        "asset_class": "US Equity",
+        "sector": "Technology",
+        "expense_ratio": 0.0075,
+        "dividend_yield": 0.0,
+        "beta": 1.62,
+        "expected_return": 0.095,
+        "volatility": 0.45
+      }
+    ]
+  },
+  "conservative_income": {
+    "name": "Conservative Retirement Income",
+    "description": "Capital-preservation and dividend/interest income portfolio designed for near-retirees.",
+    "risk_tolerance": "Conservative",
+    "holdings": [
+      {
+        "ticker": "SCHD",
+        "name": "Schwab U.S. Dividend Equity ETF",
+        "shares": 250,
+        "avg_cost": 74.0,
+        "current_price": 84.2,
+        "asset_class": "US Equity",
+        "sector": "Dividend Value",
+        "expense_ratio": 0.0006,
+        "dividend_yield": 0.0345,
+        "beta": 0.78,
+        "expected_return": 0.08,
+        "volatility": 0.135
+      },
+      {
+        "ticker": "BND",
+        "name": "Vanguard Total Bond Market ETF",
+        "shares": 350,
+        "avg_cost": 73.0,
+        "current_price": 73.2,
+        "asset_class": "Fixed Income",
+        "sector": "Government/Corp Bonds",
+        "expense_ratio": 0.0003,
+        "dividend_yield": 0.0435,
+        "beta": 0.05,
+        "expected_return": 0.046,
+        "volatility": 0.058
+      },
+      {
+        "ticker": "VTIP",
+        "name": "Vanguard Short-Term Inflation-Protected Securities ETF",
+        "shares": 300,
+        "avg_cost": 48.2,
+        "current_price": 49.1,
+        "asset_class": "Fixed Income",
+        "sector": "TIPS",
+        "expense_ratio": 0.0004,
+        "dividend_yield": 0.039,
+        "beta": 0.02,
+        "expected_return": 0.044,
+        "volatility": 0.035
+      },
+      {
+        "ticker": "VNQ",
+        "name": "Vanguard Real Estate ETF",
+        "shares": 80,
+        "avg_cost": 84.0,
+        "current_price": 91.5,
+        "asset_class": "Real Estate",
+        "sector": "REITs",
+        "expense_ratio": 0.0013,
+        "dividend_yield": 0.0385,
+        "beta": 0.89,
+        "expected_return": 0.075,
+        "volatility": 0.18
+      },
+      {
+        "ticker": "SGOV",
+        "name": "iShares 0-3 Month Treasury Bond ETF",
+        "shares": 150,
+        "avg_cost": 100.05,
+        "current_price": 100.35,
+        "asset_class": "Cash Equivalents",
+        "sector": "US Treasuries",
+        "expense_ratio": 0.0009,
+        "dividend_yield": 0.0485,
+        "beta": 0.0,
+        "expected_return": 0.045,
+        "volatility": 0.005
+      }
+    ]
+  }
+}

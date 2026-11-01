@@ -1,0 +1,257 @@
+[
+  {
+    "term": "Alpha",
+    "category": "portfolio_management",
+    "definition": "Excess return of an investment relative to the return of a benchmark index adjusted for risk (Beta)."
+  },
+  {
+    "term": "Annual Percentage Yield (APY)",
+    "category": "investing_basics",
+    "definition": "The effective annual rate of return taking into account the effect of compounding interest."
+  },
+  {
+    "term": "Asset Allocation",
+    "category": "portfolio_management",
+    "definition": "The implementation of an investment strategy that balances risk versus reward by apportioning portfolio assets across stocks, bonds, and cash."
+  },
+  {
+    "term": "Asset Location",
+    "category": "tax_and_retirement",
+    "definition": "Placing investments in taxable vs. tax-advantaged accounts based on their tax efficiency to maximize after-tax return."
+  },
+  {
+    "term": "Basis Point (bps)",
+    "category": "investing_basics",
+    "definition": "One hundredth of one percentage point (0.01%). 100 basis points equal 1.00%."
+  },
+  {
+    "term": "Bear Market",
+    "category": "market_intelligence_and_macro",
+    "definition": "A market condition in which securities prices fall 20% or more from recent highs amid widespread pessimism."
+  },
+  {
+    "term": "Beta",
+    "category": "portfolio_management",
+    "definition": "A measure of the volatility, or systematic risk, of a security or portfolio compared to the market as a whole (S&P 500 Beta = 1.0)."
+  },
+  {
+    "term": "Bid-Ask Spread",
+    "category": "etfs_and_mutual_funds",
+    "definition": "The amount by which the ask price exceeds the bid price for an asset in the market; a measure of market liquidity."
+  },
+  {
+    "term": "Blue-Chip Stock",
+    "category": "stocks_and_equities",
+    "definition": "Shares of very large, well-established, and financially sound companies with a long record of stable earnings and dividends."
+  },
+  {
+    "term": "Bond Duration",
+    "category": "bonds_and_fixed_income",
+    "definition": "A measure of the sensitivity of the price of a bond or fixed-income portfolio to changes in interest rates."
+  },
+  {
+    "term": "Bull Market",
+    "category": "market_intelligence_and_macro",
+    "definition": "A financial market condition in which prices are rising or are expected to rise by 20%+ from lows."
+  },
+  {
+    "term": "Capital Gain",
+    "category": "tax_and_retirement",
+    "definition": "The profit realized when a capital asset is sold for a price higher than its purchase price (cost basis)."
+  },
+  {
+    "term": "Compound Interest",
+    "category": "investing_basics",
+    "definition": "Interest calculated on the initial principal and also on the accumulated interest of previous periods."
+  },
+  {
+    "term": "Correlation",
+    "category": "portfolio_management",
+    "definition": "A statistical measure (-1.0 to +1.0) of how two securities move in relation to each other."
+  },
+  {
+    "term": "Cost Basis",
+    "category": "tax_and_retirement",
+    "definition": "The original value or purchase price of an asset for tax purposes, adjusted for stock splits, dividends, and return of capital."
+  },
+  {
+    "term": "Coupon Rate",
+    "category": "bonds_and_fixed_income",
+    "definition": "The annual interest rate paid on a bond, expressed as a percentage of the face (par) value."
+  },
+  {
+    "term": "Dividend Yield",
+    "category": "stocks_and_equities",
+    "definition": "A financial ratio (annual dividends per share / share price) showing how much a company pays out in dividends each year relative to its stock price."
+  },
+  {
+    "term": "Dollar-Cost Averaging (DCA)",
+    "category": "investing_basics",
+    "definition": "Investing a fixed dollar amount on a regular schedule regardless of share price, reducing market timing risk."
+  },
+  {
+    "term": "Earnings Per Share (EPS)",
+    "category": "stocks_and_equities",
+    "definition": "A company's net profit divided by the number of common shares it has outstanding."
+  },
+  {
+    "term": "Efficient Frontier",
+    "category": "portfolio_management",
+    "definition": "The set of optimal portfolios that offer the highest expected return for a defined level of risk in Modern Portfolio Theory."
+  },
+  {
+    "term": "Emergency Fund",
+    "category": "personal_finance_and_goals",
+    "definition": "A liquid cash reserve equal to 3-6 months of living expenses held in a high-yield savings or money market account."
+  },
+  {
+    "term": "Exchange-Traded Fund (ETF)",
+    "category": "etfs_and_mutual_funds",
+    "definition": "A pooled investment security that tracks an index, sector, or commodity and trades on an exchange like a regular stock."
+  },
+  {
+    "term": "Expense Ratio",
+    "category": "etfs_and_mutual_funds",
+    "definition": "The annual maintenance and management fee charged by an ETF or mutual fund, expressed as a percentage of total assets."
+  },
+  {
+    "term": "Fiduciary",
+    "category": "investing_basics",
+    "definition": "A financial advisor legally and ethically obligated to act strictly in their client's best financial interest."
+  },
+  {
+    "term": "Free Cash Flow (FCF)",
+    "category": "stocks_and_equities",
+    "definition": "Operating cash flow minus capital expenditures; the cash a company generates after maintaining or expanding its asset base."
+  },
+  {
+    "term": "Health Savings Account (HSA)",
+    "category": "tax_and_retirement",
+    "definition": "A triple-tax-advantaged account for individuals with high-deductible health plans: tax-deductible contributions, tax-free growth, and tax-free medical withdrawals."
+  },
+  {
+    "term": "Herfindahl-Hirschman Index (HHI)",
+    "category": "portfolio_management",
+    "definition": "A concentration metric equal to the sum of squared portfolio weights; lower HHI indicates higher diversification."
+  },
+  {
+    "term": "Index Fund",
+    "category": "etfs_and_mutual_funds",
+    "definition": "A mutual fund or ETF designed to follow preset rules so that it replicates the performance of a specified basket of underlying securities."
+  },
+  {
+    "term": "Inflation",
+    "category": "investing_basics",
+    "definition": "A general progressive increase in prices of goods and services in an economy, reducing the purchasing power of currency."
+  },
+  {
+    "term": "Liquidity",
+    "category": "investing_basics",
+    "definition": "The efficiency or ease with which an asset or security can be converted into ready cash without affecting its market price."
+  },
+  {
+    "term": "Market Capitalization",
+    "category": "stocks_and_equities",
+    "definition": "The total dollar market value of a company's outstanding shares of stock (Share Price x Total Shares)."
+  },
+  {
+    "term": "Maximum Drawdown",
+    "category": "portfolio_management",
+    "definition": "The maximum observed loss from a peak to a trough of a portfolio before a new peak is attained."
+  },
+  {
+    "term": "Monte Carlo Simulation",
+    "category": "portfolio_management",
+    "definition": "A probabilistic mathematical technique that models thousands of randomized return paths to estimate the likelihood of achieving a financial goal."
+  },
+  {
+    "term": "Mutual Fund",
+    "category": "etfs_and_mutual_funds",
+    "definition": "An investment vehicle pooling money from shareholders to invest in securities, priced once daily at Net Asset Value (NAV)."
+  },
+  {
+    "term": "Net Asset Value (NAV)",
+    "category": "etfs_and_mutual_funds",
+    "definition": "The per-share value of a fund's assets minus its liabilities."
+  },
+  {
+    "term": "Price-to-Earnings (P/E) Ratio",
+    "category": "stocks_and_equities",
+    "definition": "A valuation ratio of a company's current share price compared to its per-share earnings."
+  },
+  {
+    "term": "Qualified Dividend",
+    "category": "tax_and_retirement",
+    "definition": "A dividend that meets IRS holding period requirements to be taxed at lower long-term capital gains rates rather than ordinary income rates."
+  },
+  {
+    "term": "Rebalancing",
+    "category": "portfolio_management",
+    "definition": "The process of realigning the weightings of a portfolio of assets by periodically buying or selling assets to maintain target risk levels."
+  },
+  {
+    "term": "Required Minimum Distribution (RMD)",
+    "category": "tax_and_retirement",
+    "definition": "The minimum amount the IRS requires investors to withdraw annually from traditional tax-deferred retirement accounts starting at age 73."
+  },
+  {
+    "term": "Relative Strength Index (RSI)",
+    "category": "market_intelligence_and_macro",
+    "definition": "A momentum indicator (0-100) measuring the speed and magnitude of recent price changes to evaluate overbought (>70) or oversold (<30) conditions."
+  },
+  {
+    "term": "Roth IRA",
+    "category": "tax_and_retirement",
+    "definition": "An individual retirement account funded with after-tax dollars that provides tax-free investment growth and tax-free qualified withdrawals."
+  },
+  {
+    "term": "Rule of 72",
+    "category": "investing_basics",
+    "definition": "A shortcut to estimate the number of years required to double your money at a given annual rate of return (72 / return rate)."
+  },
+  {
+    "term": "Safe Withdrawal Rate (4% Rule)",
+    "category": "personal_finance_and_goals",
+    "definition": "The estimated percentage of a retirement portfolio that can be withdrawn annually (adjusted for inflation) with minimal risk of running out of money over 30 years."
+  },
+  {
+    "term": "Sharpe Ratio",
+    "category": "portfolio_management",
+    "definition": "A measure of risk-adjusted return calculated by subtracting the risk-free rate from portfolio return and dividing by portfolio standard deviation."
+  },
+  {
+    "term": "Sortino Ratio",
+    "category": "portfolio_management",
+    "definition": "A variation of the Sharpe ratio that differentiates harmful volatility from total overall volatility by using downside deviation in the denominator."
+  },
+  {
+    "term": "Standard Deviation (Volatility)",
+    "category": "portfolio_management",
+    "definition": "A statistical measure of the dispersion of returns for a given security or market index."
+  },
+  {
+    "term": "Tax-Loss Harvesting",
+    "category": "tax_and_retirement",
+    "definition": "Selling securities at a loss to offset capital gains tax liability and up to $3,000 of ordinary income per year."
+  },
+  {
+    "term": "Treasury Inflation-Protected Securities (TIPS)",
+    "category": "bonds_and_fixed_income",
+    "definition": "U.S. Treasury bonds indexed to inflation to protect investors from a decline in the purchasing power of their money."
+  },
+  {
+    "term": "Wash-Sale Rule",
+    "category": "tax_and_retirement",
+    "definition": "An IRS regulation prohibiting an investor from claiming a tax loss if they buy a substantially identical security within 30 days before or after the sale."
+  },
+  {
+    "term": "Yield Curve",
+    "category": "bonds_and_fixed_income",
+    "definition": "A line plotting bond yields of equal credit quality (such as U.S. Treasuries) across maturities from shortest to longest."
+  },
+  {
+    "term": "Yield to Maturity (YTM)",
+    "category": "bonds_and_fixed_income",
+    "definition": "The total annualized return anticipated on a bond if the bond is held until it matures."
+  }
+]
